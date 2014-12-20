@@ -10,9 +10,11 @@ Käimas olevad projektid:
   kontoritarkvara, millel on teiste sarnaste tarkvarade ees mitmeid
   märkimisväärseid eeliseid.
 * [Estobuntu](http://estobuntu.org/) on vabatahtlike koostatav eesti keele ja
-  kultuuri konteksti jaoks kohandatud üldkasutatav vabavaraline Linuxi opsüsteem. 
+  kultuuri konteksti jaoks kohandatud üldkasutatav vabavaraline Linuxi opsüsteem.
 
-Korraldatud üritused:
+Meie ja meie partnerite korraldatud üritused:
 
-* [Vaba Tarkvara Päev](http://www.bcskoolitus.ee/vtp2014)
+* [Vaba Tarkvara Päev 2014](http://www.bcskoolitus.ee/vtp2014)
+* Vabavaratalgud
+* [hackEST'13](https://www.facebook.com/events/480288482056732/)
 * [Akademy 2012](https://akademy2012.kde.org/)
