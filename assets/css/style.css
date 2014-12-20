@@ -3,6 +3,7 @@
 
 body{
 	color: #2c3e50;
+	font-family: 'PT Sans';
 }
 
 .sidebar {
@@ -117,7 +118,6 @@ article.home h3,
 article.home h4,
 article.home h5,
 article.home h6 {
-	font-family: 'PT Sans', sans-serif;
 	color: #f2756a;
 }
 
