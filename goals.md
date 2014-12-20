@@ -11,6 +11,7 @@ group: navigation
 * Eesti keele ja kultuuri säilimise tagamine.
 * Väikeettevõtluse arengu toetamine.
 * Strateegiliste vabavaraprojektide arenduse suunamine (featuuride ja veaparanduste tellimine).
+* Avatud standarditel põhinevate struktuurlahenduste pakkumine.
 * Tarbijate teadlikkuse tõstmine vabavara võimalustest.
 * Üleriigilise koostöövõrgustiku loomine (IKT-ettevõtted).
 * Rahvusvahelises vabavara koostöövõrgustikus osalemine (tarkvaraprojektid, organisatsioonid).

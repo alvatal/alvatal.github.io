@@ -11,6 +11,8 @@ Käimas olevad projektid:
   märkimisväärseid eeliseid.
 * [Estobuntu](http://estobuntu.org/) on vabatahtlike koostatav eesti keele ja
   kultuuri konteksti jaoks kohandatud üldkasutatav vabavaraline Linuxi opsüsteem.
+* [Eesti Elektroonilise Identiteedi Tarkvara](https://github.com/open-eid)
+* [Tallinna Linuxeerimise projekt](http://lauri.vosandi.com/2014/11/edu-ee.html)
 
 Meie ja meie partnerite korraldatud üritused:
 
