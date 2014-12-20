@@ -13,15 +13,15 @@ Alvatali rekvisiidid:
 
 Freenode IRC serveri kanalid:
 
-* #alvatal
-* #estobuntu
-* #linux.ee
+* &#35;alvatal
+* &#35;estobuntu
+* &#35;linux.ee
 
 IRCWorld:
 
-* #pingviin
+* &#35;pingviin
 
 IRCNet:
 
-* #bsd.ee
+* &#35;bsd.ee
 
