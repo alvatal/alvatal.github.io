@@ -1,0 +1,26 @@
+# Use 'planet generate' to fetch posts and place them under _posts/
+
+planet:
+    posts_directory: _posts/
+    templates_directory: _layouts/
+    sanitize_html: false
+    whitelisted_tags: ["alvatal"]
+
+blogs:
+    
+  - author: "Lauri Võsandi"
+    feed: "http://lauri.vosandi.com/atom.xml"
+    twitter: "v6sa"
+    url: "http://lauri.vosandi.com/"
+    
+  - author: "Kaido Kikkas"
+    feed: "http://jora.kakupesa.net/?feed=atom"
+    url: "http://jora.kakupesa.net/"
+    
+  - author: "Edmund Laugasson"
+    feed: "http://edmundlaugasson.blogspot.com/atom.xml"
+    url: "http://edmundlaugasson.blogspot.com/"
+
+  - author: "Märt Põder"
+    feed: "https://boamaod.github.io/atom.xml"
+    url: "https://boamaod.github.io/"
