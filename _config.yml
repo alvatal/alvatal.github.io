@@ -2,19 +2,21 @@
 
 paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
-exclude: ["README.md"] # files to exclude
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
 highlighter: pygments
 markdown: kramdown
-
 
 defaults:
   -
     scope:
-      path: "" # empty string for all files
+      path: ""
     values:
-      title: alvatal
+      title: Alvatal
 
-description: Stylish Jekyll Theme
+description: Estonian Free and Open-Source Software Alliance
 author:
   name: Estonian Free and Open-Source Software Alliance
   email: vabatarkvara@googlegroups.com

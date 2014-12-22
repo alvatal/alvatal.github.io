@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Liikmed ja toetajad
-group: navigation
 ---
 
 Alvatal on katusorganisatsioon mis koondab erinevaid vabavara ühendusi,
