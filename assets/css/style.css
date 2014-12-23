@@ -170,9 +170,11 @@ footer {
 .badge { background: #F2756A; }
 
 #nav-menu{
-    position: fixed;
-    top: 45px;
-    right: 45px;
+    position: relative;
+    top: 25px;
+    left: 25%;
+    width: 75%;
+    padding-left: 9px;
     z-index: 2000;
 }
 #nav-menu .dropdown-menu {
@@ -184,3 +186,18 @@ ul.dropdown-menu>li>a>i.fa {
     width: 1.3em;
 }
 
+@media (min-width: 470px) {
+    ul.pager>li.previous>a>span.hidden-xs,
+    ul.pager>li>span.page_number>span.hidden-xs,
+    ul.pager>li.next>a>span.hidden-xs {
+        display: inline !important;
+    }
+}
+
+@media (max-width: 469px) {
+    ul.pager>li.previous>a>span.hidden-xs,
+    ul.pager>li>span.page_number>span.hidden-xs,
+    ul.pager>li.next>a>span.hidden-xs {
+        display: none !important;
+    }
+}
