@@ -7,16 +7,16 @@ planet:
     whitelisted_tags: ["alvatal"]
 
 blogs:
-    
+
   - author: "Lauri Võsandi"
     feed: "http://lauri.vosandi.com/atom.xml"
     twitter: "v6sa"
     url: "http://lauri.vosandi.com/"
-    
+
   - author: "Kaido Kikkas"
     feed: "http://jora.kakupesa.net/?feed=atom"
     url: "http://jora.kakupesa.net/"
-    
+
   - author: "Edmund Laugasson"
     feed: "http://edmundlaugasson.blogspot.com/atom.xml"
     url: "http://edmundlaugasson.blogspot.com/"

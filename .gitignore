@@ -1,4 +1,20 @@
-_config.yml
-_site/*
-*Thumbs.db
+# Jekyll specific.
 .sass-cache
+_site/*
+Gemfile
+Gemfile.lock
+
+# Other.
+*.orig
+*.core
+*.rej
+*~
+*.swp
+*.log
+*.tmp
+*.bak
+.*\#.*\#$
+
+# OS garbage.
+Thumbs.db
+.DS_Store

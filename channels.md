@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Suhtluskanalid
-group: navigation
 ---
 
 Alvatali rekvisiidid:
@@ -24,4 +23,3 @@ IRCWorld:
 IRCNet:
 
 * &#35;bsd.ee
-
