@@ -46,28 +46,28 @@ tagline:
   {% if paginator.previous_page %}
   <li class="previous">
     {% if paginator.previous_page == 1 %}
-    <a href="{{ site.BASE_PATH }}/">&larr; Uuemad</a>
+    <a href="{{ site.BASE_PATH }}/">&larr;<span class="hidden-xs"> Uuemad</span>/a>
     {% else %}
-    <a href="{{ site.BASE_PATH }}/{{ site.paginate_path | replace: ':num', paginator.previous_page }}">&larr; Uuemad</a>
+    <a href="{{ site.BASE_PATH }}/{{ site.paginate_path | replace: ':num', paginator.previous_page }}">&larr;<span class="hidden-xs"> Uuemad</span></a>
     {% endif %}
   </li>
   {% else %}
   <li class="previous disabled">
-    <a>&larr; Uuemad</a>
+    <a>&larr;<span class="hidden-xs"> Uuemad</span></a>
   </li>
   {% endif %}
   
   <li>
-    <span class="page_number">Lehek&uuml;lg: {{ paginator.page }}/{{ paginator.total_pages }}</span>
+    <span class="page_number"><span class="hidden-xs">Lehek&uuml;lg: </span>{{ paginator.page }}/{{ paginator.total_pages }}</span>
   </li>
 
   {% if paginator.next_page %}
   <li class="next">
-    <a href="{{ site.BASE_PATH }}/{{ site.paginate_path | replace: ':num', paginator.next_page }}">Vanemad &rarr;</a>
+    <a href="{{ site.BASE_PATH }}/{{ site.paginate_path | replace: ':num', paginator.next_page }}"><span class="hidden-xs">Vanemad </span>&rarr;</a>
   </li>
   {% else %}
   <li class="next disabled">
-    <a>Vanemad &rarr;</a>
+    <a><span class="hidden-xs">Vanemad </span>&rarr;</a>
   </li>
   {% endif %}
 

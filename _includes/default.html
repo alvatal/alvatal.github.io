@@ -34,7 +34,7 @@
 </head>
 
 <body>
-	<nav class="navbar navbar-default visible-xs" role="navigation">
+	<nav class="navbar navbar-default visible-xs" role="navigation" id="pagetop">
 		<!-- Brand and toggle get grouped for better mobile display -->
 		<div class="navbar-header">
 			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
@@ -67,7 +67,7 @@
 		<!-- Collect the nav links, forms, and other content for toggling -->
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav">
-				<li class="active"><a href="{{ site.BASE_PATH }}/">Esileht</a></li>
+				<li><a href="{{ site.BASE_PATH }}/">Esileht</a></li>
                 <li><a href="{{ site.BASE_PATH }}/goals.html">Eesm&auml;rgid</a></li>
                 <li><a href="{{ site.BASE_PATH }}/agenda.html">Tegevuskava</a></li>
                 <li><a href="{{ site.BASE_PATH }}/members.html">Liikmed</a></li>
@@ -98,6 +98,20 @@
 
 		<footer>
 			<hr/>
+            <div class="navbar navbar-default visible-xs navbar-header">
+                <a class="navbar-toggle nav-link" href="#pagetop">
+                    <i class="fa fa-arrow-up fa-lg"></i>
+                </a>
+                <a class="navbar-toggle nav-link" href="{{ site.BASE_PATH}}/{{ site.tags_path }}">
+                    <i class="fa fa-tags fa-lg"></i>
+                </a>
+                <a class="navbar-toggle nav-link" href="{{ site.BASE_PATH}}/{{ site.categories_path }}">
+                    <i class="fa fa-folder fa-lg"></i>
+                </a>
+                <a class="navbar-toggle nav-link" href="{{ site.BASE_PATH }}/{{ site.rss_path }}">
+                    <i class="fa fa-rss fa-lg"></i>
+                </a>
+            </div>
 			<p>
 				&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}.
 			</p>
