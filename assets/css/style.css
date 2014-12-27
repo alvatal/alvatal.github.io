@@ -4,14 +4,25 @@
 body{
 	color: #2c3e50;
 	font-family: 'PT Sans';
+	font-size: 12pt;
 }
 
 .sidebar {
 	position: fixed;
 	top: 0px;
-	padding-top: 10%;
 	background-color: #2c3e50;
 	color: #fff;
+	bottom: 0;
+}
+
+.sidebar .nav2{
+    position: absolute;
+    margin-left: -5em;
+    margin-top: -5em;
+    width: 10em;
+    height: 10em;
+    top: 50%;
+    left: 50%;
 }
 
 .sidebar-header {
@@ -103,9 +114,6 @@ article{
 	letter-spacing: 3px;
 }
 
-article {
-	padding: 0 5% 0;
-}
 
 article.home div a, article.home pre a { color: #2c3e50; }
 article.home div a:hover, article.home pre a:hover { color: #2c3e50; text-decoration: none; }
@@ -117,7 +125,6 @@ article.home h2,
 article.home h3,
 article.home h4,
 article.home h5,
-article.home h6 {
 	color: #f2756a;
 }
 
@@ -201,3 +208,19 @@ ul.dropdown-menu>li>a>i.fa {
         display: none !important;
     }
 }
+
+.sidebar .nav2 {
+
+    
+}
+
+.sidebar .nav2 li {
+    margin: 0;
+}
+
+.sidebar .nav2 a {
+    color: white;
+}
+
+/* TODO: Lauri should fix his atom.xml */
+article .document span.published { display: none; }

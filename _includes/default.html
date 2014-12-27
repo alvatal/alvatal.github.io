@@ -77,18 +77,6 @@
 		</div><!-- /.navbar-collapse -->
 	</nav>
 
-	<!-- nav-menu-dropdown -->
-	<div class="btn-group hidden-xs" id="nav-menu">
-        <ul id="references" class="list-unstyled list-inline">
-            <li><a class="btn btn-default" href="{{ site.BASE_PATH }}/">Esileht</a></li>
-            <li><a class="btn btn-default" href="{{ site.BASE_PATH }}/goals.html">Eesm&auml;rgid</a></li>
-            <li><a class="btn btn-default" href="{{ site.BASE_PATH }}/agenda.html">Tegevuskava</a></li>
-            <li><a class="btn btn-default" href="{{ site.BASE_PATH }}/members.html">Liikmed</a></li>
-            <li><a class="btn btn-default" href="{{ site.BASE_PATH }}/portfolio.html">Portfolio</a></li>
-            <li><a class="btn btn-default" href="{{ site.BASE_PATH }}/channels.html">Kanalid</a></li>
-        </ul>
-	</div>
-
 	<div class="col-sm-3 sidebar hidden-xs">
 		{% include sidebar.html %}
 	</div>
@@ -113,7 +101,38 @@
                 </a>
             </div>
 			<p>
-				&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}.
+
+	            <ul class="list-unstyled list-inline">
+                    <li>
+        				&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}.
+    				</li>
+		            {% if site.author.email %}
+		            <li>
+			            <a class="btn btn-default btn-sm" href="mailto:{{ site.author.email }}">
+				            <i class="fa fa-envelope fa-lg"></i>
+			            </a>
+		            </li>
+		            {% endif %}
+		            {% if site.author.twitter %}
+		            <li>
+			            <a class="btn btn-default btn-sm" href="https://twitter.com/{{ site.author.twitter }}">
+				            <i class="fa fa-twitter fa-lg"></i>
+			            </a>
+		            </li>
+		            {% endif %}
+		            {% if site.author.github %}
+		            <li>
+			            <a class="btn btn-default btn-sm" href="https://github.com/{{ site.author.github }}">
+				            <i class="fa fa-github-alt fa-lg"></i>
+			            </a>
+		            </li>
+		            {% endif %}
+		            <li>
+			            <a class="btn btn-default btn-sm" href="{{ site.BASE_PATH }}/{{ site.rss_path }}">
+				            <i class="fa fa-rss fa-lg"></i>
+			            </a>
+		            </li>
+	            </ul>
 			</p>
 		</footer>
 	</div>

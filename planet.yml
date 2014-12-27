@@ -4,7 +4,8 @@ planet:
     posts_directory: _posts/
     templates_directory: _layouts/
     sanitize_html: false
-    whitelisted_tags: ["alvatal"]
+#    whitelisted_tags: []
+    whitelisted_tags: ["Alvatal"]
 
 blogs:
 
@@ -14,7 +15,7 @@ blogs:
     url: "http://lauri.vosandi.com/"
 
   - author: "Kaido Kikkas"
-    feed: "http://jora.kakupesa.net/?feed=atom"
+    feed: "http://jora.kakupesa.net/?feed=rss2"
     url: "http://jora.kakupesa.net/"
 
   - author: "Edmund Laugasson"

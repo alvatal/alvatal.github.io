@@ -3,6 +3,9 @@ layout: page
 title: Eesmärgid
 ---
 
+Alvatal koondab Eesti vaba ning avatud lähtekoodiga tarkvara jõupingutusi
+ning meie eesmärkideks pikemas perspektiivis on:
+
 * Vabavaraga seotud oskuste, teadmiste ja hoiakute väärtustamine.
 * Eesti Vabariigi jätkusuutliku ekspordivõime kasvatamine (IKT).
 * Eesti Vabariigist edumeelse rahvusvahelise IKT-kuvandi kujundamine.
