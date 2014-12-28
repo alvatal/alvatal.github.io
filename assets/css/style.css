@@ -15,16 +15,6 @@ body{
 	bottom: 0;
 }
 
-.sidebar .nav2{
-    position: absolute;
-    margin-left: -5em;
-    margin-top: -5em;
-    width: 10em;
-    height: 10em;
-    top: 50%;
-    left: 50%;
-}
-
 .sidebar-header {
 	text-align: center;
 	margin-bottom: 10px;
@@ -209,17 +199,39 @@ ul.dropdown-menu>li>a>i.fa {
     }
 }
 
-.sidebar .nav2 {
-
+#contact-list {
+    font-size: 150%;
     
 }
 
-.sidebar .nav2 li {
+#contact-list li {
     margin: 0;
 }
 
-.sidebar .nav2 a {
-    color: white;
+#contact-list a {
+    color: #ccc;
+}
+
+#contact-list .active a {
+    color: #fff;
+}
+
+#contact-list {
+    position: absolute;
+    margin-left: -5em;
+    margin-top: -5em;
+    width: 10em;
+    height: 10em;
+    top: 50%;
+    left: 50%;
+}
+
+#content {
+    padding: 0 3em;
+}
+
+html {
+    overflow-y: scroll;
 }
 
 /* TODO: Lauri should fix his atom.xml */

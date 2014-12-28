@@ -67,75 +67,43 @@
 		<!-- Collect the nav links, forms, and other content for toggling -->
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav">
-				<li><a href="{{ site.BASE_PATH }}/">Esileht</a></li>
-                <li><a href="{{ site.BASE_PATH }}/goals.html">Eesm&auml;rgid</a></li>
-                <li><a href="{{ site.BASE_PATH }}/agenda.html">Tegevuskava</a></li>
-                <li><a href="{{ site.BASE_PATH }}/members.html">Liikmed</a></li>
-                <li><a href="{{ site.BASE_PATH }}/portfolio.html">Portfolio</a></li>
-                <li><a href="{{ site.BASE_PATH }}/channels.html">Kanalid</a></li>
+                {% include nav.html %}
 			</ul>
 		</div><!-- /.navbar-collapse -->
 	</nav>
 
-	<div class="col-sm-3 sidebar hidden-xs">
+	<div id="sidebar" class="col-sm-3 sidebar hidden-xs">
 		{% include sidebar.html %}
 	</div>
 
-	<div class="col-sm-9 col-sm-offset-3">
+	<div id="content" class="col-sm-9 col-sm-offset-3">
 		{{ content }}
 
 		<footer>
 			<hr/>
-            <div class="navbar navbar-default visible-xs navbar-header">
-                <a class="navbar-toggle nav-link" href="#pagetop">
-                    <i class="fa fa-arrow-up fa-lg"></i>
-                </a>
-                <a class="navbar-toggle nav-link" href="{{ site.BASE_PATH}}/{{ site.tags_path }}">
-                    <i class="fa fa-tags fa-lg"></i>
-                </a>
-                <a class="navbar-toggle nav-link" href="{{ site.BASE_PATH}}/{{ site.categories_path }}">
-                    <i class="fa fa-folder fa-lg"></i>
-                </a>
-                <a class="navbar-toggle nav-link" href="{{ site.BASE_PATH }}/{{ site.rss_path }}">
-                    <i class="fa fa-rss fa-lg"></i>
-                </a>
-            </div>
-			<p>
-
-	            <ul class="list-unstyled list-inline">
-                    <li>
-        				&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}.
-    				</li>
-		            {% if site.author.email %}
-		            <li>
-			            <a class="btn btn-default btn-sm" href="mailto:{{ site.author.email }}">
-				            <i class="fa fa-envelope fa-lg"></i>
-			            </a>
-		            </li>
-		            {% endif %}
-		            {% if site.author.twitter %}
-		            <li>
-			            <a class="btn btn-default btn-sm" href="https://twitter.com/{{ site.author.twitter }}">
-				            <i class="fa fa-twitter fa-lg"></i>
-			            </a>
-		            </li>
-		            {% endif %}
-		            {% if site.author.github %}
-		            <li>
-			            <a class="btn btn-default btn-sm" href="https://github.com/{{ site.author.github }}">
-				            <i class="fa fa-github-alt fa-lg"></i>
-			            </a>
-		            </li>
-		            {% endif %}
-		            <li>
-			            <a class="btn btn-default btn-sm" href="{{ site.BASE_PATH }}/{{ site.rss_path }}">
-				            <i class="fa fa-rss fa-lg"></i>
-			            </a>
-		            </li>
-	            </ul>
+            <p>
+				&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}.
 			</p>
 		</footer>
+		
+		
+		
 	</div>
+	
+    <nav class="navbar navbar-default visible-xs navbar-header" style="margin-bottom:0">
+        <a class="navbar-toggle nav-link" href="#pagetop">
+            <i class="fa fa-arrow-up fa-lg"></i>
+        </a>
+        <a class="navbar-toggle nav-link" href="{{ site.BASE_PATH}}/{{ site.tags_path }}">
+            <i class="fa fa-tags fa-lg"></i>
+        </a>
+        <a class="navbar-toggle nav-link" href="{{ site.BASE_PATH}}/{{ site.categories_path }}">
+            <i class="fa fa-folder fa-lg"></i>
+        </a>
+        <a class="navbar-toggle nav-link" href="{{ site.BASE_PATH }}/{{ site.rss_path }}">
+            <i class="fa fa-rss fa-lg"></i>
+        </a>
+    </nav>
 
 	<script type="text/javascript" src="{{ site.BASE_PATH }}/assets/resources/jquery/jquery.min.js"></script>
 	<script type="text/javascript" src="{{ site.BASE_PATH }}/assets/resources/bootstrap/js/bootstrap.min.js"></script>

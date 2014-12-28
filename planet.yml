@@ -4,7 +4,6 @@ planet:
     posts_directory: _posts/
     templates_directory: _layouts/
     sanitize_html: false
-#    whitelisted_tags: []
     whitelisted_tags: ["Alvatal"]
 
 blogs:

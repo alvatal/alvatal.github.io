@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Uudised
 tagline:
 ---
 
@@ -8,13 +9,21 @@ tagline:
 <article class="home">
 
   <span class="post-date">
-    {% assign d = post.date | date: "%d" | plus:'0' %}
-    {{ post.date | date: "%B" }}
+    {% assign d = post.date | date: "%m" | plus:'0' %}
+    {{ post.date | date: "%d" }}.
     {% case d %}
-    {% when 1 or 21 or 31 %}{{ d }}st,
-    {% when 2 or 22 %}{{ d }}nd,
-    {% when 3 or 23 %}{{ d }}rd,
-    {% else %}{{ d }}th,
+    {% when 1 %}Jaanuar,
+    {% when 2 %}Veebruar,
+    {% when 3 %}Märts,
+    {% when 4 %}Aprill,
+    {% when 5 %}Mai,
+    {% when 6 %}Juuni,
+    {% when 7 %}Juuli,
+    {% when 8 %}August,
+    {% when 9 %}September,
+    {% when 10 %}Oktoober,
+    {% when 11 %}November,
+    {% else %}Detsember,
     {% endcase %}
     {{ post.date | date: "%Y" }}
   </span>
