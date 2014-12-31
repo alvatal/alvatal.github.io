@@ -13,7 +13,7 @@ MTÜ Alvatal rekvisiidid:
 Meililist
 
 * [vabatarkvara@googlegroups.com](mailto:vabatarkvara@googlegroups.com) ja selle [arhiiv](https://groups.google.com/forum/#!forum/vabatarkvara)
-  * Liitumiseks kirjuta [vabatarkvara+subscribe@googlegroups.com](mailto:vabatarkvara+subscribe@googlegroups.com) 
+* Liitumiseks kirjuta [vabatarkvara+subscribe@googlegroups.com](mailto:vabatarkvara+subscribe@googlegroups.com) 
 
 Freenode IRC serveri kanal:
 
