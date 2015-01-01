@@ -52,10 +52,10 @@ tagline:
 
 <ul class="pager"> 
 
-  {% if paginator.previous_page %}
+  {% if paginator.previous_page %}	
   <li class="previous">
     {% if paginator.previous_page == 1 %}
-    <a href="{{ site.BASE_PATH }}/">&larr;<span class="hidden-xs"> Uuemad</span>/a>
+    <a href="{{ site.BASE_PATH }}/news/">&larr;<span class="hidden-xs"> Uuemad</span></a>
     {% else %}
     <a href="{{ site.BASE_PATH }}/{{ site.paginate_path | replace: ':num', paginator.previous_page }}">&larr;<span class="hidden-xs"> Uuemad</span></a>
     {% endif %}

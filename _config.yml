@@ -1,7 +1,7 @@
 # visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 
-paginate: 10 # pagination based on number of posts
-paginate_path: "page:num"
+paginate: 2 # pagination based on number of posts
+paginate_path: "news/page:num"
 exclude:
 - README.md
 - Gemfile

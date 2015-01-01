@@ -7,27 +7,6 @@ body{
 	font-size: 12pt;
 }
 
-.sidebar {
-	position: fixed;
-	top: 0px;
-	background-color: #2c3e50;
-	color: #fff;
-	bottom: 0;
-}
-
-.sidebar-header {
-	text-align: center;
-	margin-bottom: 10px;
-}
-.sidebar-header .title{
-	letter-spacing: 3px;
-	text-transform: uppercase;
-}
-
-.sidebar-header .title a{
-	text-decoration: none;
-	color: #fff;
-}
 
 a.nav-link {
 	padding-bottom: 5px;
@@ -199,32 +178,13 @@ ul.dropdown-menu>li>a>i.fa {
     }
 }
 
-#contact-list {
-    font-size: 150%;
-    
+
+.col-md-4 p {
+    text-align: justify;
+    hyphens: auto;
+    -moz-hyphens: auto;
 }
 
-#contact-list li {
-    margin: 0;
-}
-
-#contact-list a {
-    color: #ccc;
-}
-
-#contact-list .active a {
-    color: #fff;
-}
-
-#contact-list {
-    position: absolute;
-    margin-left: -5em;
-    margin-top: -5em;
-    width: 10em;
-    height: 10em;
-    top: 50%;
-    left: 50%;
-}
 
 #content {
     padding: 0 3em;
@@ -236,3 +196,29 @@ html {
 
 /* TODO: Lauri should fix his atom.xml */
 article .document span.published { display: none; }
+
+
+#gallery {
+    -webkit-transition: background-image 0.5s linear;
+    -moz-transition: background-image 0.5s linear;
+    -o-transition: background-image 0.5s linear;
+    transition: background-image 0.5s linear;
+    background-size: cover;
+    background-position: center center;
+    height: 600px;
+    padding-left:0;
+    padding-right:0;
+    position: relative;
+}
+
+#gallery[data-frame="1"] { background-image:url('../gallery/001.jpg'); }
+#gallery[data-frame="2"] { background-image:url('../gallery/002.jpg'); }
+#gallery[data-frame="3"] { background-image:url('../gallery/003.jpg'); }
+#gallery[data-frame="4"] { background-image:url('../gallery/004.jpg'); }
+#gallery[data-frame="5"] { background-image:url('../gallery/005.jpg'); }
+#gallery[data-frame="6"] { background-image:url('../gallery/006.jpg'); }
+#gallery[data-frame="7"] { background-image:url('../gallery/007.jpg'); }
+#gallery[data-frame="8"] { background-image:url('../gallery/008.jpg'); }
+#gallery[data-frame="9"] { background-image:url('../gallery/009.jpg'); }
+#gallery[data-frame="10"] { background-image:url('../gallery/010.jpg'); }
+
