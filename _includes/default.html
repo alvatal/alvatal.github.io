@@ -11,8 +11,9 @@
 	<!--[if lt IE 9]>
 	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
+
 	<link href="{{ site.BASE_PATH }}/assets/css/bootstrap.min.css" rel="stylesheet">
-	<link href="{{ site.BASE_PATH }}/assets/resources/syntax/syntax.css" rel="stylesheet">
+	<link href="{{ site.BASE_PATH }}/assets/css/font-awesome.min.css" rel="stylesheet">
 	<link href="{{ site.BASE_PATH }}/assets/css/style.css" rel="stylesheet">
 
 	<!-- Le fav and touch icons -->
@@ -22,11 +23,11 @@
 	<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
 	<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
 	-->
+
 	<link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.BASE_PATH }}/feed.xml">
 </head>
 
-<body>
-
+<body id="pagetop">
     <nav class="navbar navbar-fixed-top navbar-inverse">
         <div class="container">
             <div class="navbar-header">
@@ -68,12 +69,6 @@
     <nav class="navbar navbar-default visible-xs navbar-header" style="margin-bottom:0">
         <a class="navbar-toggle nav-link" href="#pagetop">
             <i class="fa fa-arrow-up fa-lg"></i>
-        </a>
-        <a class="navbar-toggle nav-link" href="{{ site.BASE_PATH}}/{{ site.tags_path }}">
-            <i class="fa fa-tags fa-lg"></i>
-        </a>
-        <a class="navbar-toggle nav-link" href="{{ site.BASE_PATH}}/{{ site.categories_path }}">
-            <i class="fa fa-folder fa-lg"></i>
         </a>
         <a class="navbar-toggle nav-link" href="{{ site.BASE_PATH }}/{{ site.rss_path }}">
             <i class="fa fa-rss fa-lg"></i>
