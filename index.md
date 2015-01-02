@@ -34,14 +34,14 @@ setInterval(function() {
         <div class="col-md-4">
             <h2>Mis on Alvatal?</h2>
             <p>
-            Alvatal ühendab Eesti ettevõtteid, mittetulundusühinguid ja vabatahtlikke,
-            kelle südameasjaks on läbipaistvus tark- ning riistvaralahenduste juures.
-            Me peame oluliseks, et laiatarbe tarkvara oleks avatud lähtekoodiga,
-            selleks et garanteerida tarkvara kasutaja vabadus teenusepakkuja
-            valikul ning tagada tarkvara lahenduste jätkusuutlikus Eestis.
-            Riistvara lahenduste puhul on olulised samad aspektid,
+            Alvatal ühendab Eesti ette&shy;võtteid, mitte&shy;tulundus&shy;ühinguid ja vaba&shy;tahtlikke,
+            kelle südame&shy;asjaks on läbi&shy;paistvus tark- ning riist&shy;vara&shy;lahenduste juures.
+            Me peame oluliseks, et laia&shy;tarbe tark&shy;vara oleks avatud lähte&shy;koodiga,
+            selleks et garanteerida tark&shy;vara kasutaja vabadus teenuse&shy;pakkuja
+            valikul ning tagada tark&shy;vara lahenduste jätku&shy;suutlikus Eestis.
+            Riist&shy;vara lahenduste puhul on olulised samad aspektid,
             et riistvara ei võimaldaks kolmandal osapoolel pealt kuulata
-            kasutaja tekstivestlusi, e-kirju, heli- või videokõnesid.
+            kasutaja teksti&shy;vestlusi, e-kirju, heli- või videokõnesid.
              
             </p>
             <a class="btn btn-default" href="#" role="button">Loe lähemalt &raquo;</a></p>
@@ -50,22 +50,25 @@ setInterval(function() {
             <h2>Mida me pakume?</h2>
             <p>
             Alvatali eesmärgiks on teavitada inimesi ja firmasid avatud
-            lähtekoodiga ja vaba tarkvara võimalustest ning
-            viia klient kokku teenusepakkujaga.
-            Me tutvustame avatud lahendusi, mille abil on võimalik
-            vähendada sõltuvust välismaistest teenusepakkujatest ja seeläbi
+            lähte&shy;koodiga ja vaba tark&shy;vara võimalus&shy;test ning
+            viia klient kokku teenuse&shy;pakkujaga.
+            Me tutvus&shy;tame avatud lahendusi, mille abil on võimalik
+            vähendada sõltuvust välis&shy;maistest teenuse&shy;pakkujatest ja seeläbi
             panustada kohaliku IKT-sektorisse.
-            Me korraldame üritusi eesmärgiga lähendada
-            sarnaste väärtushinnangute ning mõtteviisiga inimesi.
+            Me korraldame üritusi ees&shy;märgiga lähendada
+            sarnaste väärtus&shy;hinnangute ning mõtte&shy;viisiga inimesi.
            
             
             
             </p>
-            <a class="btn btn-default" href="#" role="button">Loe lähemalt &raquo;</a></p>
+            <a class="btn btn-default" href="#" role="button">Üritused &raquo;</a>
+            <a class="btn btn-default" href="business.html" role="button">Ettevõtted &raquo;</a>
+
         </div>
         <div class="col-md-4">
-            <h2>Kuidas see mind aitab?</h2>
+            <h2>Kasu mulle?</h2>
             <p>
+            
             </p>
             <a class="btn btn-default" href="http://kysi-mult-linuxit.alvatal.ee/" role="button">View details &raquo;</a></p>
         </div>
@@ -82,12 +85,12 @@ setInterval(function() {
           talgud 3. mail 2014 aastal Eesti erinevates linnades.
           <img src="http://www.dis-corp.com/content/files/9313/8205/0830/windows_xp_rip.png" style="float:right;"/>
           Talgute eesmärk on aidata inimesi kelle arvutites töötab veel
-          MS Windows XP, MS Office 2003 kuid mitte ainult – teretulnud on
-          kõik Microsofti tarkvara kasutajad kes soovivad kasutada kaasaegset
-          tarkvara ning olla oluliselt paremini kaitstud pahavara, nuhkvara,
+          MS Windows XP, MS Office 2003 kuid mitte ainult – tere&shy;tulnud on
+          kõik Microsofti tark&shy;vara kasutajad kes soovivad kasutada kaasaegset
+          tark&shy;vara ning olla oluliselt paremini kaitstud pahavara, nuhkvara,
           reklaamvara vastu.
           Suure huvi tõttu korraldasime jätkutalgud 26. mail.
-          Kokku käis talgutel inimesi 300 ringis.
+          Talgutel osales kokku umbes 300 murelikku kodanikku.
           
 
           </p>
@@ -98,22 +101,24 @@ setInterval(function() {
           <p>
           Korraldasime koostöös Riigi Infosüsteemide Ametiga
           Vaba Tarkvara Päeva 26. septembril 2014.
+          <img src="assets/img/software-freedom-day-squarish.png" style="float:right;"/>
           Üritus osutus väga menukaks ning kohad täitusid esimeste päevade jooksul.
-          <img src="assets/img/software-freedom-day.png" style="max-width:100%; max-height:100%;"/>
+
           </p>
           <p><a class="btn btn-default" href="#" role="button">Loe lähemalt &raquo;</a></p>
        </div>
         <div class="col-md-4">
           <h2>Küsi mult Linuxit</h2>
-          <img src="http://kysi-mult-linuxit.alvatal.ee/kysi-mult-linuxit-halo.png" style="float:right; padding: 0 0 0 1em;"/>
+
           <p>Iga aasta septembris korraldame kampaaniat Küsi mult Linuxit. 
+          <img src="http://kysi-mult-linuxit.alvatal.ee/kysi-mult-linuxit-halo.png" style="float:right; padding: 0.5em 0 0.5em 1em;"/>
           Kampaania eesmärk on tuua välja põhjusi, miks sa võiksid mõnda
           Linuxi opsüsteemi kasutada, ja julgustada sind ka reaalselt Linuxit proovima.</p>
           
 
           
           
-          <p><a class="btn btn-default" href="http://kysi-mult-linuxit.alvatal.ee/" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-default" href="http://kysi-mult-linuxit.alvatal.ee/" role="button">Loe lähemalt &raquo;</a></p>
         </div>
       </div>
 

@@ -179,10 +179,15 @@ ul.dropdown-menu>li>a>i.fa {
 }
 
 
-.col-md-4 p {
+.col-md-4 p,
+.col-md-6 p {
     text-align: justify;
-    hyphens: auto;
-    -moz-hyphens: auto;
+
+
+
+-webkit-hyphens: manual;
+   -moz-hyphens: manual;
+        hyphens: manual;
 }
 
 
