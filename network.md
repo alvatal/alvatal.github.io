@@ -43,9 +43,9 @@ title: Võrgustik
         Teeme koostööd EENeti ning Tallinna Haridusametiga,
         eesmärgiga lahendada praktilisi probleeme avatud lähtekoodiga
         kasutusele võtmisel ning integreerimisel Eesti riigi taristuga.
-        Mida olulisemaks muutub IKT majanshy;duses seda enam olulisemat rolli
-        hakkab mängima avatud lähteshy;kood hariduses mõjushy;tades otseselt
-        Eesti majanduse jätku&shy;suutshy;likkust ning Eesti e-riigi staatuse
+        Mida olulisemaks muutub IKT majan&shy;duses seda enam olulisemat rolli
+        hakkab mängima avatud lähte&shy;kood hariduses mõju&shy;tades otseselt
+        Eesti majanduse jätku&shy;suut&shy;likkust ning Eesti e-riigi staatuse
         püsima jäämist.
         </p>
         <a class="btn btn-default" href="http://www.eenet.ee/" role="button">EENet.ee &raquo;</a></p>
@@ -54,13 +54,13 @@ title: Võrgustik
     <div class="col-md-6">
         <h2>Rahvusvahelised partnerid</h2>
         <p>
-        Koostöös Soome avatud tarkshy;vara keskusega ning
+        Koostöös Soome avatud tark&shy;vara keskusega ning
         Eesti Info&shy;tehno&shy;loogia Kolledžiga tõime Eestisse
         Akademy 2012 - ühe suurima avatud lähtekoodi kogukonna
-        konveshy;rentsi mida külastas umbshy;kaudu 400 inimest üle maailma.
-        Meie eesmärgiks on hoida häid sidemeid analoogsete rahvusshy;vaheliste
-        organisatsioonidega, selleks et tuua Eesti ka avatud lähteshy;koodiga
-        konveshy;rentside kaardile.
+        konve&shy;rentsi mida külastas umb&shy;kaudu 400 inimest üle maailma.
+        Meie eesmärgiks on hoida häid sidemeid analoogsete rahvus&shy;vaheliste
+        organisatsioonidega, selleks et tuua Eesti ka avatud lähte&shy;koodiga
+        konve&shy;rentside kaardile.
         </p>
         <a class="btn btn-default" href="http://coss.fi/" role="button">COSS.fi &raquo;</a></p>
     </div>
