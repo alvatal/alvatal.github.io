@@ -208,10 +208,10 @@ article .document span.published { display: none; }
 
 
 #gallery {
-    -webkit-transition: background-image 0.5s linear;
-    -moz-transition: background-image 0.5s linear;
-    -o-transition: background-image 0.5s linear;
-    transition: background-image 0.5s linear;
+    -webkit-transition: background-image 1s linear;
+    -moz-transition: background-image 1s linear;
+    -o-transition: background-image 1s linear;
+    transition: background-image 1s linear;
     background-size: cover;
     background-position: center center;
     height: 500px;

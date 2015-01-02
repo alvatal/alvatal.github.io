@@ -26,7 +26,7 @@ $(document).ready(function() {
        var i = parseInt($("#gallery").attr("data-frame")) + 1;
        if (i > 3) { i=1;}
        $("#gallery").attr("data-frame", i);
-    }, 1000);
+    }, 10000);
 });
 </script>
 
@@ -94,7 +94,7 @@ $(document).ready(function() {
 
           Seoses Windows XP tugiteenuse lõpuga korraldasime
           talgud 3. mail 2014 aastal Eesti erinevates linnades.
-          <img src="http://www.dis-corp.com/content/files/9313/8205/0830/windows_xp_rip.png" style="float:right;"/>
+          <img src="http://www.dis-corp.com/content/files/9313/8205/0830/windows_xp_rip.png" style="float:right;" alt="[Windows XP RIP]"/>
           Talgute eesmärk on aidata inimesi kelle arvutites töötab veel
           MS Windows XP, MS Office 2003 kuid mitte ainult – tere&shy;tulnud on
           kõik Microsofti tark&shy;vara kasutajad kes soovivad kasutada kaasaegset
@@ -112,7 +112,7 @@ $(document).ready(function() {
           <p>
           Korraldasime koostöös Riigi Infosüsteemide Ametiga
           Vaba Tarkvara Päeva 26. septembril 2014.
-          <img src="assets/img/software-freedom-day-squarish.png" style="float:right;"/>
+          <img src="assets/img/software-freedom-day-squarish.png" style="float:right;" alt="[Software Freedom Day]"/>
           Üritus osutus väga menukaks ning kohad täitusid esimeste päevade jooksul.
 
           </p>
@@ -122,7 +122,7 @@ $(document).ready(function() {
           <h2>Küsi mult Linuxit</h2>
 
           <p>Iga aasta septembris korraldame kampaaniat Küsi mult Linuxit. 
-          <img src="http://kysi-mult-linuxit.alvatal.ee/kysi-mult-linuxit-halo.png" style="float:right; padding: 0.5em 0 0.5em 1em;"/>
+          <img src="http://kysi-mult-linuxit.alvatal.ee/kysi-mult-linuxit-halo.png" alt="[Küsi mult Linuxit]" style="float:right; padding: 0.5em 0 0.5em 1em;"/>
           Kampaania eesmärk on tuua välja põhjusi, miks sa võiksid mõnda
           Linuxi opsüsteemi kasutada, ja julgustada sind ka reaalselt Linuxit proovima.</p>
           
