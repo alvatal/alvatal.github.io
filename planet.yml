@@ -4,7 +4,7 @@ planet:
     posts_directory: _posts/
     templates_directory: _layouts/
     sanitize_html: false
-    whitelisted_tags: ["Alvatal"]
+    whitelisted_tags: ["Alvatal", "ALVATAL", "alvatal", "ALVaTaL"]
 
 blogs:
 

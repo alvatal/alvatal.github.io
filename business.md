@@ -5,7 +5,7 @@ title: Meie võrgustiku ettevõtted
 
 <p>
 Altavatali asutajateks on mitmed tuntud Eesti ettevõtted, kelle eesmärgiks
-oli pakkuda vabal tarkvaral põhinevaid lahendusi vähendades seeläbi
+on pakkuda vabal tarkvaral põhinevaid lahendusi vähendades seeläbi
 litsentsikulusid ning austades tarkvara kasutaja privaatsust.
 Käesoleval lehel võite tutvuda meie liikmeks olevate äriühingutega
 kes on valmis teid aitama sülarvuti valikust kuni IKT-taristu 
@@ -166,6 +166,7 @@ function filter() {
         pakub keerukatele taristu probleemidele lihtsaid lahendusi.
         Meie kompetentsi kuuluvad:  tule&shy;müürid, virtuaal&shy;privaat&shy;võrgud,
         autenti&shy;mine, autori&shy;seerimine, kesk&shy;haldus,
+        OwnCloud baasil privaatpilve lahendused,
         Python tarkvaraarendus, PostgreSQL andmebaasid, Debian/Ubuntu jaoks
         tarkvara pakendus ning levitamine.
         Pakume nimetatud teemades ka koolitusi algajatele.

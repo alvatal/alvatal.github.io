@@ -72,7 +72,7 @@ setInterval(function() {
             ehk siis
             sõltuvus&shy;suhtega, mis takistab teil teisi tooteid kasutamast või
             teeb selle võimalikult eba&shy;mugavaks.
-            Täna&shy;päeval on sama oht varitsemas veebis kuna
+            Täna&shy;päeval on sama oht varitsemas veebis, kuna
             veebi&shy;teenuse pakkujale sisestatud infot on äärmiselt raske
             viia teise teenuse&shy;pakkuja juurde.
             See&shy;tõttu on olulised avatud lähte&shy;kood ning andmete käidel&shy;davus nii

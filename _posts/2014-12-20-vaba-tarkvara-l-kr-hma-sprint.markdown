@@ -31,10 +31,6 @@ Sama probleem on copywriteri kaasamisega meie tegevusse.</p>
 </ol>
 <p>Veebi korrastamisel v&#245;iksime juhinduda analoogsete organisatsioonide/asutuste
 kodulehtedest: <a class="reference external" href="http://coss.fi/">COSS</a> ja <a class="reference external" href="http://www.opensourcesweden.se/">Open Source Sweden</a>.</p>
-<div class="figure">
-<img alt="http://www.pagaripoisid.ee/images/products/Kringlid-strislid/singi-porru-stritsel-proff.JPG" src="/cache/www.pagaripoisid.ee/images/products/Kringlid-strislid/singi-porru-stritsel-proff.JPG" />
-<p class="caption">Motiveerimiseks toon stritslit!</p>
-</div>
 </div>
 <div class="author">
     <i><a href="http://lauri.vosandi.com/2014/12/vaba-tarkvara-lookruhma-sprint.html">Loe algset postitust lehel Lauri's blog</a></i>
