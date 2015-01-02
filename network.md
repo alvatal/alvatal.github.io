@@ -7,9 +7,9 @@ title: Võrgustik
     <div class="col-md-6">
         <h2>Ettevõtted</h2>
         <p>
-        Altavatali asutajateks on mitmed tuntud Eesti ettevõtted, kelle eesmärgiks
+        Alvatali asutajateks on mitmed tuntud Eesti ettevõtted, kelle eesmärgiks
         on pakkuda vabal tarkvaral põhinevaid lahendusi vähendades seeläbi
-        litsentsikulusid ning austades tarkvara kasutaja privaatsust.
+        litsentsikulusid ning pidades lugu arvutikasutaja privaatsusest.
         Siit võite leida omale IT-mehe või äripartneri tulevaste
         ettevõtmiste jaoks.
         </p>
@@ -23,10 +23,10 @@ title: Võrgustik
         Interneti arengu ning arvutite massidesse jõudmise tagajärjel
         tekkinud sümbioos majanduslikust ratsionaalsusest ning
         sotsiaalsest heaolust mis poleks võimalik
-        vabatahtlike tööta.
+        vabatahtlike abita.
         Eesti vabatahtlikud on annud oma panuse vaba
         tarkvara arengusse tõlgete näol ning ilma nendeta
-        poleks võimalik kasutada Firefoxi või Estobuntut
+        poleks võimalik kasutada Firefoxi, LibreOfficet, VLC-d või Estobuntut
         eesti keeles.
         
         </p>
@@ -42,10 +42,10 @@ title: Võrgustik
         <p>
         Teeme koostööd EENeti ning Tallinna Haridusametiga,
         eesmärgiga lahendada praktilisi probleeme avatud lähtekoodiga
-        kasutusele võtmisel.
-        Mida olulisemaks muutub ITK majanduses seda enam olulisemat rolli
-        hakkab mängima avatud lähtekood hariduses mõjutades otseselt
-        Eesti majanduse jätkusuutlikkust ning Eesti e-riigi staatuse
+        kasutusele võtmisel ning integreerimisel Eesti riigi taristuga.
+        Mida olulisemaks muutub IKT majanshy;duses seda enam olulisemat rolli
+        hakkab mängima avatud lähteshy;kood hariduses mõjushy;tades otseselt
+        Eesti majanduse jätku&shy;suutshy;likkust ning Eesti e-riigi staatuse
         püsima jäämist.
         </p>
         <a class="btn btn-default" href="http://www.eenet.ee/" role="button">EENet.ee &raquo;</a></p>
@@ -54,13 +54,13 @@ title: Võrgustik
     <div class="col-md-6">
         <h2>Rahvusvahelised partnerid</h2>
         <p>
-        Koostöös Soome avatud tarkvara keskusega ning
+        Koostöös Soome avatud tarkshy;vara keskusega ning
         Eesti Info&shy;tehno&shy;loogia Kolledžiga tõime Eestisse
         Akademy 2012 - ühe suurima avatud lähtekoodi kogukonna
-        konverentsi mida külastas umbkaudu 400 inimest üle maailma.
-        Meie eesmärgiks on hoida häid sidemeid analoogsete rahvusvaheliste
-        organisatsioonidega, selleks et tuua Eesti ka avatud lähtekoodiga
-        konverentside kaardile.
+        konveshy;rentsi mida külastas umbshy;kaudu 400 inimest üle maailma.
+        Meie eesmärgiks on hoida häid sidemeid analoogsete rahvusshy;vaheliste
+        organisatsioonidega, selleks et tuua Eesti ka avatud lähteshy;koodiga
+        konveshy;rentside kaardile.
         </p>
         <a class="btn btn-default" href="http://coss.fi/" role="button">COSS.fi &raquo;</a></p>
     </div>
