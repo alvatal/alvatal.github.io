@@ -68,9 +68,18 @@ setInterval(function() {
         <div class="col-md-4">
             <h2>Kasu mulle?</h2>
             <p>
-            
+            Kinnised lahendused on tavaliselt kaitstud tootja&shy;lukuga 
+            ehk siis
+            sõltuvus&shy;suhtega, mis takistab teil teisi tooteid kasutamast või
+            teeb selle võimalikult eba&shy;mugavaks.
+            Täna&shy;päeval on sama oht varitsemas veebis kuna
+            veebi&shy;teenuse pakkujale sisestatud infot on äärmiselt raske
+            viia teise teenuse&shy;pakkuja juurde.
+            See&shy;tõttu on olulised avatud lähte&shy;kood ning andmete käidel&shy;davus nii
+            era&shy;isiku kui ette&shy;võtte jaoks, ees&shy;märgiga pikemas pers&shy;pek&shy;tiivis
+            kulusid vähendada ning luua jätku&shy;suutelisi IKT-lahendusi.
             </p>
-            <a class="btn btn-default" href="http://kysi-mult-linuxit.alvatal.ee/" role="button">View details &raquo;</a></p>
+            <a class="btn btn-default" href="http://kysi-mult-linuxit.alvatal.ee/" role="button">Tootjalukust lähemalt &raquo;</a></p>
         </div>
     </div>
 </div>

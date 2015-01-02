@@ -73,7 +73,7 @@ function filter() {
 <div class="row" lang="et">
     <div class="col-md-6" id="povi">
         <h2>Povi Software OÜ</h2>
-        <p>Povi pakub Odoo baasil ettevõtte resursiplaneerimistarkvara.</p>
+        <p>Povi pakub Odoo baasil ettevõtte ressursiplaneerimistarkvara.</p>
         <a class="btn btn-default" href="http://www.povi.ee/" role="button">Loe lähemalt &raquo;</a>
     </div>
     <div class="col-md-6">
@@ -184,12 +184,22 @@ function filter() {
 
 <div class="row" lang="et">
     <div class="col-md-6" id="teknet">
-        <h2>Teknet Arvutid OÜ</h2>
+        <h2>Elfluido OÜ</h2>
         <p>
-        Teknet on Viljandis registreeritud ettevõte, mis keskendub
-        SQL-Ledger baasil raamatupidamislahenduste pakkumisele.
+        Elfluido IT Teenused on Elfluido OÜ alla kuuluv ettevõte, mille
+        peamine ülesanne on pakkuda erinevaid arvutialaseid teenuseid nii
+        ettevõtetele kui ka eraisikutele erinevate arvutialaste probleemide
+        lahendamisel ning uute lahenduste juurutamisel.
+        Aastast 2007 oleme olnud abiks paljudele ettevõtetele ja eraisikutele
+        pakkudes tugiteenuseid lepingute või väljakutsete alusel ning aidanud 
+        kaasa mitmete võrkude ja arvutiparkide loomisel, haldamisel ning arendamisel.
+        Soovime olla abiks
+        tühimiku täitmisel, mis tekib siis, kui pole võimalik hoida põhikohaga
+        tööl oma spetsialisti, kes igapäevaselt aitab murede ja probleemide
+        lahendamisel või puudub isik, kelle poole pöörduda töövälisel ajal
+        koduse arvuti parandamisel.
         </p>
-        <a class="btn btn-default" href="http://www.teknet.ee/index.php?artikli_id=58" role="button">Loe lähemalt &raquo;</a>
+        <a class="btn btn-default" href="http://it.elfluido.ee/" role="button">Loe lähemalt &raquo;</a>
     </div>
     <div class="col-md-6" id="ppnet">
         <h2>PP Electronics OÜ</h2>
@@ -200,6 +210,21 @@ function filter() {
     </div>
 
 </div>
+
+<div class="row" lang="et">
+    <div class="col-md-6" id="teknet">
+        <h2>Teknet Arvutid OÜ</h2>
+        <p>
+        Teknet on Viljandis registreeritud ettevõte, mis keskendub
+        SQL-Ledger baasil raamatupidamislahenduste pakkumisele.
+        </p>
+        <a class="btn btn-default" href="http://www.teknet.ee/" role="button">Loe lähemalt &raquo;</a>
+    </div>
+
+
+</div>
+
+
 
 
 
