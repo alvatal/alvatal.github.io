@@ -40,15 +40,19 @@ title: Võrgustik
     <div class="col-md-6">
         <h2>Haridusasutused</h2>
         <p>
-        Teeme koostööd EENeti ning Tallinna Haridusametiga,
+        Teeme koos&shy;tööd
+        Eesti Info&shy;tehno&shy;loogia Kolledži,
+        EENeti ning
+        Tallinna Haridus&shy;ametiga,
         eesmärgiga lahendada praktilisi probleeme avatud lähtekoodiga
-        kasutusele võtmisel ning integreerimisel Eesti riigi taristuga.
+        kasutusele võtmisel Eesti koolides ning integreerimisel Eesti riigi taristuga.
         Mida olulisemaks muutub IKT majan&shy;duses seda enam olulisemat rolli
         hakkab mängima avatud lähte&shy;kood hariduses mõju&shy;tades otseselt
         Eesti majanduse jätku&shy;suut&shy;likkust ning Eesti e-riigi staatuse
         püsima jäämist.
         </p>
-        <a class="btn btn-default" href="http://www.eenet.ee/" role="button">EENet.ee &raquo;</a></p>
+        <a class="btn btn-default" href="http://www.itcollege.ee/" role="button">Eesti IT Kolledž &raquo;</a></p>
+        <a class="btn btn-default" href="http://www.eenet.ee/" role="button">EENet &raquo;</a></p>
         <a class="btn btn-default" href="http://www.tallinn.ee/est/haridus/" role="button">Tallinna Haridusamet &raquo;</a></p>
     </div>
     <div class="col-md-6">

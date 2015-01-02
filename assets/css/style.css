@@ -214,20 +214,22 @@ article .document span.published { display: none; }
     transition: background-image 0.5s linear;
     background-size: cover;
     background-position: center center;
-    height: 600px;
-    padding-left:0;
-    padding-right:0;
-    position: relative;
+    height: 500px;
 }
 
-#gallery[data-frame="1"] { background-image:url('../gallery/001.jpg'); }
-#gallery[data-frame="2"] { background-image:url('../gallery/002.jpg'); }
-#gallery[data-frame="3"] { background-image:url('../gallery/003.jpg'); }
-#gallery[data-frame="4"] { background-image:url('../gallery/004.jpg'); }
-#gallery[data-frame="5"] { background-image:url('../gallery/005.jpg'); }
-#gallery[data-frame="6"] { background-image:url('../gallery/006.jpg'); }
-#gallery[data-frame="7"] { background-image:url('../gallery/007.jpg'); }
-#gallery[data-frame="8"] { background-image:url('../gallery/008.jpg'); }
-#gallery[data-frame="9"] { background-image:url('../gallery/009.jpg'); }
-#gallery[data-frame="10"] { background-image:url('../gallery/010.jpg'); }
+#gallery[data-frame="1"], #preload .frame1 { background-image:url('../gallery/001.jpg'); }
+#gallery[data-frame="2"], #preload .frame2 { background-image:url('../gallery/002.jpg'); }
+#gallery[data-frame="3"], #preload .frame3 { background-image:url('../gallery/003.jpg'); }
+#gallery[data-frame="4"], #preload .frame4 { background-image:url('../gallery/004.jpg'); }
+#gallery[data-frame="5"], #preload .frame5 { background-image:url('../gallery/005.jpg'); }
+#gallery[data-frame="6"], #preload .frame6 { background-image:url('../gallery/006.jpg'); }
+#gallery[data-frame="7"], #preload .frame7 { background-image:url('../gallery/007.jpg'); }
+#gallery[data-frame="8"], #preload .frame8 { background-image:url('../gallery/008.jpg'); }
+#gallery[data-frame="9"], #preload .frame9 { background-image:url('../gallery/009.jpg'); }
+#gallery[data-frame="10"], #preload .frame10 { background-image:url('../gallery/010.jpg'); }
+
+#preload div {
+    background-repeat: no-repeat;
+    background-position: -9999px -9999px;
+}
 

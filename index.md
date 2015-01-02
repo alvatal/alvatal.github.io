@@ -21,12 +21,13 @@ layout: default
 </div>
 
 <script type="text/javascript">
-setInterval(function() {
-
-   var i = parseInt($("#gallery").attr("data-frame")) + 1;
-   if (i > 3) { i=1;}
-   $("#gallery").attr("data-frame", i);
-}, 5000);
+$(document).ready(function() {
+    setInterval(function() {
+       var i = parseInt($("#gallery").attr("data-frame")) + 1;
+       if (i > 3) { i=1;}
+       $("#gallery").attr("data-frame", i);
+    }, 1000);
+});
 </script>
 
 <div class="container" lang="et">
@@ -75,7 +76,8 @@ setInterval(function() {
             Täna&shy;päeval on sama oht varitsemas veebis, kuna
             veebi&shy;teenuse pakkujale sisestatud infot on äärmiselt raske
             viia teise teenuse&shy;pakkuja juurde.
-            See&shy;tõttu on olulised avatud lähte&shy;kood ning andmete käidel&shy;davus nii
+            See&shy;tõttu on olulised avatud lähte&shy;kood
+            ja IKT-lahenduste rist-ühilduvus nii
             era&shy;isiku kui ette&shy;võtte jaoks, ees&shy;märgiga pikemas pers&shy;pek&shy;tiivis
             kulusid vähendada ning luua jätku&shy;suutelisi IKT-lahendusi.
             </p>
@@ -132,4 +134,10 @@ setInterval(function() {
       </div>
 
 
+</div>
+
+<div id="preload">
+    <div class="frame1"></div>
+    <div class="frame2"></div>
+    <div class="frame3"></div>
 </div>

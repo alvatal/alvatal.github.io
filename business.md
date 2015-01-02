@@ -83,6 +83,10 @@ function filter() {
         kursis Git versioonihalduse ning GitHub keskkonnaga.
         Enne formaalselt liikmeks astumist oled teretulnud lisama oma ettevõtte
         kirjelduse käesolevasse nimistusse.
+        Kui Teil ei ole võimalik oma ettevõtte kirjeldust mingil põhjusel
+        GitHubi kaudu lisada, siis saatke meile oma ettevõtte kirjeldus e-kirjaga.
+        Alvatali liikmeks astunud ettevõtete kirjeldused lisatakse
+        meie poolt automaatselt.
         </p>
         <a class="btn btn-default" href="https://github.com/alvatal/alvatal.github.io/blob/master/business.md" role="button">GitHub varamusse &raquo;</a>
     </div>
