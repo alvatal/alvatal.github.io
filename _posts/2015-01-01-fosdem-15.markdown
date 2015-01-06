@@ -1,0 +1,30 @@
+---
+title: "FOSDEM'15"
+created_at: 2015-01-01 00:00:00 UTC
+author: Lauri Võsandi
+categories: 
+tags: 
+layout: post
+source_url: http://lauri.vosandi.com/2015/01/fosdem-2015.html
+---
+<div class="document" id="fosdem-15">
+<!-- published: 2015-01-01 -->
+<!-- tags: Alvatal -->
+<p>FOSDEM (Free and Open Source Developer European Meeting) on
+&#252;leeuroopaline vaba ja avatud l&#228;htekoodiga tarkvara arendajate kohtumine
+mis toimub iga aastaselt Br&#252;sselis,
+&#220;ritusel k&#228;ib keskeltl&#228;bi 5000 inimest, kuulata saab &#252;le 400
+esitluse ning &#252;rituse eest raha ei k&#252;sita.
+FOSDEM-ile mineja ei pea ilmtingimata arendaja olema,
+piisab huvist avatud l&#228;htekoodi ning h&#228;kitava raudvara vastu.
+Ka sel aastal v&#245;ib &#252;rituselt leida mitmeid eestlasi.
+Eestist saab otse Br&#252;sselisse Estonian Airiga ning
+Br&#252;sselis tuleks &#228;ra broneerida m&#245;ni hostel.
+S&#228;&#228;stuhosteli &#246;&#246; hind j&#228;&#228;b 25&#8364; ringi ning pisut v&#245;iks ka varuda
+Belgia &#245;llede jaoks.
+Kui see aasta ei j&#245;ua minna siis j&#228;rgmise aasta jaoks uudisenupukese
+p&#252;&#252;ame teha juba novembris. N&#228;eme Br&#252;sselis!</p>
+</div>
+<div class="author">
+    <i><a href="http://lauri.vosandi.com/2015/01/fosdem-2015.html">Loe algset postitust lehel Lauri's blog</a></i>
+</div>
