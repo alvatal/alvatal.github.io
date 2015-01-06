@@ -8,7 +8,7 @@ title: Meie võrgustiku ettevõtted
    xmlns="http://www.w3.org/2000/svg"
    viewBox="0 0 4763 3368"
    preserveAspectRatio="xMinYMin meet"
-   style="font-size: 400%;"
+   style="font-size: 50pt; text-anchor:middle;"
    xml:space="preserve"
    id="map"
    version="1.1">
@@ -2300,274 +2300,82 @@ title: Meie võrgustiku ettevõtted
 
 </g>
 
-
-
 <text
-   xml:space="preserve"
-   style="fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr;"
    x="699.59802"
-   y="1367.775"
+   y="1417.775"
    id="text5666"
-   sodipodi:linespacing="100%"
-   transform="translate(117.8201,37.57764)"><tspan
-     x="699.59802"
-     y="1367.7750"
-     sodipodi:role="line"
-     id="tspan4690">Hiiu</tspan><tspan
-     x="699.59802"
-     y="1467.7750"
-     sodipodi:role="line"
-     id="tspan4692">maakond</tspan></text>
-
-
+   transform="translate(117.8201,37.57764)">Hiiu</text>
 <text
-   xml:space="preserve"
-   style="fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr;"
    x="699.59802"
-   y="1367.775"
+   y="1417.775"
    id="text4935"
-   sodipodi:linespacing="100%"
-   transform="translate(3.292537,704.5324)"><tspan
-     x="699.59802"
-     y="1367.7750"
-     sodipodi:role="line"
-     id="tspan5173">Saare</tspan><tspan
-     x="699.59802"
-     y="1467.7750"
-     sodipodi:role="line"
-     id="tspan5175">maakond</tspan></text>
-
-
+   transform="translate(3.292537,704.5324)">Saare</text>
 <text
-   xml:space="preserve"
-   style="fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr;"
    x="699.59802"
-   y="1367.775"
+   y="1417.775"
    id="text4940"
-   sodipodi:linespacing="100%"
-   transform="translate(1438.257,583.2679)"><tspan
-     x="699.59802"
-     y="1367.7750"
-     sodipodi:role="line"
-     id="tspan5153">P&auml;rnu</tspan><tspan
-     x="699.59802"
-     y="1467.7750"
-     sodipodi:role="line"
-     id="tspan5155">maakond</tspan></text>
-
-
+   transform="translate(1438.257,583.2679)">P&auml;rnu</text>
 <text
-   xml:space="preserve"
-   style="fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr;"
    x="699.59802"
-   y="1367.775"
+   y="1417.775"
    id="text4945"
-   sodipodi:linespacing="100%"
-   transform="translate(899.3029,71.26225)"><tspan
-     x="699.59802"
-     y="1367.7750"
-     sodipodi:role="line"
-     id="tspan5133">L&auml;&auml;ne</tspan><tspan
-     x="699.59802"
-     y="1467.7750"
-     sodipodi:role="line"
-     id="tspan5135">maakond</tspan></text>
+   transform="translate(899.3029,71.26225)">L&auml;&auml;ne</text>
 <text
-   xml:space="preserve"
-   style="fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr;"
    x="699.59802"
-   y="1367.775"
+   y="1417.775"
    id="text4950"
-   sodipodi:linespacing="100%"
-   transform="translate(1498.888,24.10383)"><tspan
-     x="699.59802"
-     y="1367.7750"
-     sodipodi:role="line"
-     id="tspan5137">Rapla</tspan><tspan
-     x="699.59802"
-     y="1467.7750"
-     sodipodi:role="line"
-     id="tspan5139">maakond</tspan></text>
-
-
+   transform="translate(1498.888,24.10383)">Rapla</text>
 <text
-   xml:space="preserve"
-   style="fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr"
    x="699.59802"
-   y="1367.775"
+   y="1417.775"
    id="text4955"
-   sodipodi:linespacing="100%"
-   transform="translate(1613.415,-508.1125)"><tspan
-     x="699.59802"
-     y="1367.7750"
-     sodipodi:role="line"
-     id="tspan5129">Harju</tspan><tspan
-     x="699.59802"
-     y="1467.7750"
-     sodipodi:role="line"
-     id="tspan5131">maakond</tspan></text>
-
-
+   transform="translate(1613.415,-508.1125)">Harju</text>
 <text
-   xml:space="preserve"
-   style="fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr;"
    x="699.59802"
-   y="1367.775"
+   y="1417.775"
    id="text5076"
-   sodipodi:linespacing="100%"
-   transform="translate(2617.215,-474.4279)"><tspan
-     x="699.59802"
-     y="1367.7750"
-     sodipodi:role="line"
-     id="tspan5125">L&auml;&auml;ne-Viru</tspan><tspan
-     x="699.59802"
-     y="1467.7750"
-     sodipodi:role="line"
-     id="tspan5127">maakond</tspan></text>
-
-
+   transform="translate(2617.215,-474.4279)">L&auml;&auml;ne-Viru</text>
 <text
-   xml:space="preserve"
-   style="fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr;"
    x="699.59802"
-   y="1367.775"
+   y="1417.775"
    id="text5081"
-   sodipodi:linespacing="100%"
-   transform="translate(3358.276,-434.0064)"><tspan
-     x="699.59802"
-     y="1367.7750"
-     sodipodi:role="line"
-     id="tspan5121">Ida-Viru</tspan><tspan
-     x="699.59802"
-     y="1467.7750"
-     sodipodi:role="line"
-     id="tspan5123">maakond</tspan></text>
-
-
+   transform="translate(3358.276,-434.0064)">Ida-Viru</text>
 <text
-   xml:space="preserve"
-   style="fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr;"
    x="699.59802"
-   y="1367.775"
+   y="1417.775"
    id="text5086"
-   sodipodi:linespacing="100%"
-   transform="translate(2199.526,3.893176)"><tspan
-     x="699.59802"
-     y="1367.7750"
-     sodipodi:role="line"
-     id="tspan5141">J&auml;rva</tspan><tspan
-     x="699.59802"
-     y="1467.7750"
-     sodipodi:role="line"
-     id="tspan5143">maakond</tspan></text>
-
-
+   transform="translate(2199.526,3.893176)">J&auml;rva</text>
 <text
-   xml:space="preserve"
-   style="fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr;"
    x="699.59802"
-   y="1367.775"
+   y="1417.775"
    id="text5091"
    sodipodi:linespacing="100%"
-   transform="translate(2745.216,253.1591)"><tspan
-     x="699.59802"
-     y="1367.7750"
-     sodipodi:role="line"
-     id="tspan5145">J&otilde;geva</tspan><tspan
-     x="699.59802"
-     y="1467.7750"
-     sodipodi:role="line"
-     id="tspan5147">maakond</tspan></text>
-
-
+   transform="translate(2745.216,253.1591)">J&otilde;geva</text>
 <text
-   xml:space="preserve"
-   style="fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr;"
    x="699.59802"
-   y="1367.775"
+   y="1417.775"
    id="text5096"
-   sodipodi:linespacing="100%"
-   transform="translate(2105.209,718.0063)"><tspan
-     x="699.59802"
-     y="1367.7750"
-     sodipodi:role="line"
-     id="tspan5157">Viljandi</tspan><tspan
-     x="699.59802"
-     y="1467.7750"
-     sodipodi:role="line"
-     id="tspan5159">maakond</tspan></text>
-
-
+   transform="translate(2105.209,718.0063)">Viljandi</text>
 <text
-   xml:space="preserve"
-   style="fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr;"
    x="699.59802"
-   y="1367.775"
+   y="1417.775"
    id="text5101"
-   sodipodi:linespacing="100%"
-   transform="translate(2906.902,724.7432)"><tspan
-     x="699.59802"
-     y="1367.7750"
-     sodipodi:role="line"
-     id="tspan5149">Tartu</tspan><tspan
-     x="699.59802"
-     y="1467.7750"
-     sodipodi:role="line"
-     id="tspan5151">maakond</tspan></text>
-
-
+   transform="translate(2906.902,724.7432)">Tartu</text>
 <text
-   xml:space="preserve"
-   style="fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr;"
    x="699.59802"
-   y="1367.775"
+   y="1417.775"
    id="text5106"
-   sodipodi:linespacing="100%"
-   transform="translate(3203.326,1108.747)"><tspan
-     x="699.59802"
-     y="1367.7750"
-     sodipodi:role="line"
-     id="tspan5165">P&otilde;lva</tspan><tspan
-     x="699.59802"
-     y="1467.7750"
-     sodipodi:role="line"
-     id="tspan5167">maakond</tspan></text>
-
-
+   transform="translate(3203.326,1108.747)">P&otilde;lva</text>
 <text
-   xml:space="preserve"
-   style="fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr;"
    x="699.59802"
-   y="1367.775"
+   y="1417.775"
    id="text5111"
-   sodipodi:linespacing="100%"
-   transform="translate(3115.746,1499.488)"><tspan
-     x="699.59802"
-     y="1367.7750"
-     sodipodi:role="line"
-     id="tspan5169">V&otilde;ru</tspan><tspan
-     x="699.59802"
-     y="1467.7750"
-     sodipodi:role="line"
-     id="tspan5171">maakond</tspan></text>
-
-
+   transform="translate(3115.746,1499.488)">V&otilde;ru</text>
 <text
-   xml:space="preserve"
-   style="fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr"
    x="699.59802"
-   y="1367.775"
+   y="1417.775"
    id="text5116"
-   sodipodi:linespacing="100%"
-   transform="translate(2495.950,1250.222)"><tspan
-     x="699.59802"
-     y="1367.7750"
-     sodipodi:role="line"
-     id="tspan5161">Valga</tspan><tspan
-     x="699.59802"
-     y="1467.7750"
-     sodipodi:role="line"
-     id="tspan5163">maakond</tspan></text>
+   transform="translate(2495.950,1250.222)">Valga</text>
 </svg>
 
 <p>
