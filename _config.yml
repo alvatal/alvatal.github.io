@@ -1,32 +1,90 @@
-# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+# Alvatal Jekyll template.
 
-paginate: 2 # pagination based on number of posts
-paginate_path: "news/page:num"
+# For Jekyll configuration options please see
+# http://jekyllrb.com/docs/configuration/
+
+# Paths.
+data_source:    ./_data
+collections:    null
+
+# Handling reading.
 exclude:
-- README.md
-- Gemfile
-- Gemfile.lock
-highlighter: pygments
-markdown: kramdown
+  - .gitignore
+  - .sass-cache
+  - Gemfile
+  - Gemfile.lock
+  - planet.yml
+  - README.md
+encoding:       utf-8
+markdown_ext:   markdown,mkdown,mkdn,mkd,md
+textile_ext:    textile
 
+# Content handling.
+show_drafts:    null
+lsi:            false
+limit_posts:    0
+future:         true
+markdown:       kramdown
+highlighter:    pygments
+
+# Serving.
+#detach:     false
+#port:       4000
+#host:       127.0.0.1
+baseurl:    ""
+url:        "http://alvatal.org"
+
+# Outputting.
+permalink:      pretty
+paginate:       5
+paginate_path:  "news/page:num"
+timezone:       UTC
+
+# Posts' and pages' defaults.
 defaults:
   -
+    # This is the global scope (global defaults). All values here can
+    # be overridden in specific post or page.
     scope:
       path: ""
     values:
+      # Page title.
       title: Alvatal
-
-description: Estonian Free and Open-Source Software Alliance
-author:
-  name: Estonian Free and Open-Source Software Alliance
-  email: vabatarkvara@googlegroups.com
-  github: alvatal
-  twitter: alvatal
-  bio: Me teame kes teab!
-  email_md5: 726351295ec82e145928582f595aa3aa
-
-rss_path: feed.xml
-categories_path: categories.html
-tags_path: tags.html
-
-BASE_PATH:
+      # Short description of the page.
+      description: Estonian Free and Open-Source Software Alliance
+      # Slogan for the page.
+      slogan: Me teame kes teab!
+      # Author for pages and posts.
+      author: Estonian Free and Open-Source Software Alliance
+      # Contact e-mail for pages and posts.
+      email: vabatarkvara@googlegroups.com
+      # E-mail MD5 sum of gravatar.
+      email_md5sum: 726351295ec82e145928582f595aa3aa
+      # Page/post content license (can contain HTML).
+      content_license: Estonian Free and Open-Source Software Alliance
+      # Preferred feed standard. Possible values are: atom, rss or null.
+      # If set to null then no feed links are present, but feeds can
+      # still be accessed directly via /feed/atom or /feed/rss.
+      feed: rss
+      # Path to icon for feed (Atom standard only).
+      feed_icon: null
+      # Path to logo for feed (recommended w/h aspect ratio is 2:1).
+      feed_logo: null
+      # How many posts will be shown in the feed.
+      feed_posts_limit: 10
+      # Summary length in characters for posts.
+      summary_length: 300
+      # Various social media and contact methods.
+      twitter: alvatal
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: posts
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      layout: pages

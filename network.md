@@ -13,7 +13,7 @@ title: Võrgustik
         Siit võite leida omale IT-mehe või äripartneri tulevaste
         ettevõtmiste jaoks.
         </p>
-        <a class="btn btn-default" href="business.html" role="button">Leia omale teenusepakkuja &raquo;</a></p>
+        <a class="btn btn-default" href="/business/" role="button">Leia omale teenusepakkuja &raquo;</a></p>
     </div>
 
     <div class="col-md-6">

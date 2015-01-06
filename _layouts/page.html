@@ -2,8 +2,6 @@
 layout: default
 ---
 <div class="container">
-    <div class="page-header">
-      <h1>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
-    </div>
-    {% include page.html %}
+    {% include page_header.html %}
+    {{ content }}
 </div>

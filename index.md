@@ -1,6 +1,5 @@
 ---
 title: Teretulemast
-kind: article
 layout: default
 ---
 
@@ -63,7 +62,7 @@ $(document).ready(function() {
             
             </p>
             <a class="btn btn-default" href="#" role="button">Üritused &raquo;</a>
-            <a class="btn btn-default" href="business.html" role="button">Ettevõtted &raquo;</a>
+            <a class="btn btn-default" href="/business/" role="button">Ettevõtted &raquo;</a>
 
         </div>
         <div class="col-md-4">
