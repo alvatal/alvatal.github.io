@@ -2,7 +2,7 @@
 layout: post
 title: Alvatali uus veeb on laivis
 tags: [alvatal]
-description: Häid pühi
+summary: Häid pühi!
 ---
 
 Alvatali uus veeb on üles ehitatud Jekyll baasil ning istub Github

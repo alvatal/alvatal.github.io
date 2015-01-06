@@ -1,11 +1,11 @@
 ---
 title: "Vaba tarkvara löökrühma sprint"
-kind: article
 created_at: 2014-12-20 09:00:00 UTC
 author: Lauri Võsandi
 categories: 
 tags: 
 layout: post
+source_url: http://lauri.võsandi.com/2014/12/vaba-tarkvara-lookruhma-sprint.html
 ---
 <div class="document" id="vaba-tarkvara-lookruhma-sprint">
 <!-- published: 2014-12-20 09:00:00 -->

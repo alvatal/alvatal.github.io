@@ -1,11 +1,11 @@
 ---
 title: "ARM plaatide töötuba"
-kind: article
 created_at: 2014-11-13 18:00:00 UTC
 author: Lauri Võsandi
 categories: 
 tags: 
 layout: post
+source_url: http://lauri.võsandi.com/2014/11/arm-tootuba.html
 ---
 <div class="document" id="arm-plaatide-tootuba">
 <!-- author: Lauri V&#245;sandi <lauri.vosandi@gmail.com> -->
