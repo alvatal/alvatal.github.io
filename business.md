@@ -6,13 +6,11 @@ title: Meie võrgustiku ettevõtted
 <svg
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-
    viewBox="0 0 4763 3368"
    preserveAspectRatio="xMinYMin meet"
-   kerning="0"
+   style="font-size: 400%;"
    xml:space="preserve"
-   id="svg1"
-   sodipodi:version="0.32"
+   id="map"
    version="1.1">
 
 <path
@@ -2306,7 +2304,7 @@ title: Meie võrgustiku ettevõtted
 
 <text
    xml:space="preserve"
-   style="font-size:100.00000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr;"
+   style="fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr;"
    x="699.59802"
    y="1367.775"
    id="text5666"
@@ -2324,7 +2322,7 @@ title: Meie võrgustiku ettevõtted
 
 <text
    xml:space="preserve"
-   style="font-size:100.00000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr;"
+   style="fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr;"
    x="699.59802"
    y="1367.775"
    id="text4935"
@@ -2342,7 +2340,7 @@ title: Meie võrgustiku ettevõtted
 
 <text
    xml:space="preserve"
-   style="font-size:100.00000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr;"
+   style="fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr;"
    x="699.59802"
    y="1367.775"
    id="text4940"
@@ -2360,7 +2358,7 @@ title: Meie võrgustiku ettevõtted
 
 <text
    xml:space="preserve"
-   style="font-size:100.00000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr;"
+   style="fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr;"
    x="699.59802"
    y="1367.775"
    id="text4945"
@@ -2376,7 +2374,7 @@ title: Meie võrgustiku ettevõtted
      id="tspan5135">maakond</tspan></text>
 <text
    xml:space="preserve"
-   style="font-size:100.00000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr;"
+   style="fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr;"
    x="699.59802"
    y="1367.775"
    id="text4950"
@@ -2394,7 +2392,7 @@ title: Meie võrgustiku ettevõtted
 
 <text
    xml:space="preserve"
-   style="font-size:100.00000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr"
+   style="fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr"
    x="699.59802"
    y="1367.775"
    id="text4955"
@@ -2412,7 +2410,7 @@ title: Meie võrgustiku ettevõtted
 
 <text
    xml:space="preserve"
-   style="font-size:100.00000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr;"
+   style="fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr;"
    x="699.59802"
    y="1367.775"
    id="text5076"
@@ -2430,7 +2428,7 @@ title: Meie võrgustiku ettevõtted
 
 <text
    xml:space="preserve"
-   style="font-size:100.00000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr;"
+   style="fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr;"
    x="699.59802"
    y="1367.775"
    id="text5081"
@@ -2448,7 +2446,7 @@ title: Meie võrgustiku ettevõtted
 
 <text
    xml:space="preserve"
-   style="font-size:100.00000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr;"
+   style="fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr;"
    x="699.59802"
    y="1367.775"
    id="text5086"
@@ -2466,7 +2464,7 @@ title: Meie võrgustiku ettevõtted
 
 <text
    xml:space="preserve"
-   style="font-size:100.00000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr;"
+   style="fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr;"
    x="699.59802"
    y="1367.775"
    id="text5091"
@@ -2484,7 +2482,7 @@ title: Meie võrgustiku ettevõtted
 
 <text
    xml:space="preserve"
-   style="font-size:100.00000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr;"
+   style="fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr;"
    x="699.59802"
    y="1367.775"
    id="text5096"
@@ -2502,7 +2500,7 @@ title: Meie võrgustiku ettevõtted
 
 <text
    xml:space="preserve"
-   style="font-size:100.00000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr;"
+   style="fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr;"
    x="699.59802"
    y="1367.775"
    id="text5101"
@@ -2520,7 +2518,7 @@ title: Meie võrgustiku ettevõtted
 
 <text
    xml:space="preserve"
-   style="font-size:100.00000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr;"
+   style="fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr;"
    x="699.59802"
    y="1367.775"
    id="text5106"
@@ -2538,7 +2536,7 @@ title: Meie võrgustiku ettevõtted
 
 <text
    xml:space="preserve"
-   style="font-size:100.00000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr;"
+   style="fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr;"
    x="699.59802"
    y="1367.775"
    id="text5111"
@@ -2556,7 +2554,7 @@ title: Meie võrgustiku ettevõtted
 
 <text
    xml:space="preserve"
-   style="font-size:100.00000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr"
+   style="fill:#000000;stroke:none;stroke-width:1.0000000pt;stroke-linecap:butt;stroke-linejoin:miter;text-anchor:middle;writing-mode:lr"
    x="699.59802"
    y="1367.775"
    id="text5116"
