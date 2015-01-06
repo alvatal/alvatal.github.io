@@ -4,7 +4,7 @@ kind: article
 layout: default
 ---
 
-<div class="jumbotron" id="gallery" data-frame="1" style="margin:0;">
+<div class="jumbotron" id="gallery" data-frame="2" style="margin:0;">
 &nbsp;
 </div>
 
@@ -24,7 +24,7 @@ layout: default
 $(document).ready(function() {
     setInterval(function() {
        var i = parseInt($("#gallery").attr("data-frame")) + 1;
-       if (i > 3) { i=1;}
+       if (i > 4) { i=1;}
        $("#gallery").attr("data-frame", i);
     }, 10000);
 });
@@ -93,17 +93,17 @@ $(document).ready(function() {
           <p>
 
           Seoses Windows XP tugiteenuse lõpuga korraldasime
-          talgud 3. mail 2014 aastal Eesti erinevates linnades.
+          2014 aasta mais talgud erinevates Eesti linnades.
           <img src="http://www.dis-corp.com/content/files/9313/8205/0830/windows_xp_rip.png" style="float:right;" alt="[Windows XP RIP]"/>
           Talgute eesmärk on aidata inimesi kelle arvutites töötab veel
-          MS Windows XP, MS Office 2003 kuid mitte ainult – tere&shy;tulnud on
-          kõik Microsofti tark&shy;vara kasutajad kes soovivad kasutada kaasaegset
+          Windows XP või Office 2003, kuid mitte ainult – tere&shy;tulnud on
+          kõik Micro&shy;softi tark&shy;vara ka&shy;su&shy;ta&shy;jad kes soovivad kasu&shy;tada kaasaegset
           tark&shy;vara ning olla oluliselt paremini kaitstud pahavara, nuhkvara,
           reklaamvara vastu.
           Suure huvi tõttu korraldasime jätkutalgud 26. mail.
-          Talgutel osales kokku umbes 300 murelikku kodanikku.
-          
-
+          Talgutel osales kokku umbes 300 mures kodanikku.
+          Ka 2015 mai&shy;kuus korral&shy;dame järje&shy;kord&shy;sed talgud,
+          regis&shy;treeruda võid <a href="http://goo.gl/bWSLxd">siin</a>.
           </p>
           <p><a class="btn btn-default" href="#" role="button">Loe lähemalt &raquo;</a></p>
         </div>
