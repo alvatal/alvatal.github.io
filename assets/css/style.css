@@ -13,6 +13,14 @@
   src: url('/assets/fonts/merriweather.woff') format('woff');
 }
 
+@font-face {
+  font-family: 'Nexa Light';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/assets/fonts/nexa-light.woff') format('woff');
+}
+
+
 body{
 	color: #2c3e50;
 	font-family: 'PT Sans';
@@ -231,3 +239,16 @@ article .document span.published { display: none; }
     padding-right: 0;
 }
 
+.advertise {
+    font-size: 24pt;
+}
+
+ul.ticks {
+    list-style: none;
+    padding: 0;
+}
+
+ul.ticks li:before {
+    content: '✔';
+    padding: 0 0.5em;
+}

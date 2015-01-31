@@ -63,14 +63,14 @@ layout: page
             üsna hõlpsalt käima saada.
             Kõige problemaati&shy;lisemad printerid Tallinna Haridus&shy;ameti piloodis osalenud
             asutuste jaoks olid Canon printerid, mille jaoks Canon pakub küll ametlikku
-            tuge kuid printeri ohjurtarkvara kipub seni krahhima.
+            tuge kuid printeri juhtprogramm kipub seni krahhima.
             </p>
         </div>
         <div class="col-md-4">
             <h2>Tahvlid</h2>
             <p>
             Koolides on hetkel kasutusel QOMO ning Smarttech SB480 ning SB600 tahvlid.
-            Kuigi tahvlite ohjurtarkvara oli võrdlemisi kehva kvaliteediga õnnestus
+            Kuigi tahvlite juhtprogramm oli võrdlemisi kehva kvaliteediga õnnestus
             meie inseneridel tahvlid kasutuskõlblikuks saada.
             Smarttechi õppematerjalide koostamise tarkvaral on küll puudusi võrreldes 
             nende Windowsi versiooniga, mistõttu soovitame õppematerjale aegsasti

@@ -13,7 +13,7 @@ layout: default
         Eesti IT Kolledži triple-boot arvutid võimaldavad õpetada nii Ubuntu, Mac OS X kui Windows baasil tarkvara arendamist ja administreerimist.
         </p>
         <p>
-        <a class="btn btn-primary btn-lg" href="#" role="button">Vii oma haridusasutus samuti avatud lähtekoodile üle &raquo;</a>
+        <a class="btn btn-primary btn-lg" href="#" role="button">Võta ka oma asutuses vabavara kasutusele &raquo;</a>
         </p>
     </div>
 </div>
