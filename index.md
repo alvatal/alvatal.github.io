@@ -3,7 +3,7 @@ title: Teretulemast
 layout: default
 ---
 
-<div class="jumbotron" id="gallery" data-frame="2" style="margin:0;">
+<div class="jumbotron" id="gallery" style="background-image:url('/assets/gallery/vabavaratalgud.jpg');">
 &nbsp;
 </div>
 
@@ -18,16 +18,6 @@ layout: default
         </p>
     </div>
 </div>
-
-<script type="text/javascript">
-$(document).ready(function() {
-    setInterval(function() {
-       var i = parseInt($("#gallery").attr("data-frame")) + 1;
-       if (i > 4) { i=1;}
-       $("#gallery").attr("data-frame", i);
-    }, 10000);
-});
-</script>
 
 <div class="container" lang="et">
     <div class="row">
@@ -104,7 +94,7 @@ $(document).ready(function() {
           Ka 2015 mai&shy;kuus korral&shy;dame järje&shy;kord&shy;sed talgud,
           regis&shy;treeruda võid <a href="http://goo.gl/bWSLxd">siin</a>.
           </p>
-          <p><a class="btn btn-default" href="#" role="button">Loe lähemalt &raquo;</a></p>
+          <p><a class="btn btn-default" href="/talgud/" role="button">Loe lähemalt &raquo;</a></p>
         </div>
         <div class="col-md-4">
           <h2>Vaba Tarkvara Päev</h2>
@@ -133,10 +123,4 @@ $(document).ready(function() {
       </div>
 
 
-</div>
-
-<div id="preload">
-    <div class="frame1"></div>
-    <div class="frame2"></div>
-    <div class="frame3"></div>
 </div>

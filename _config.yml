@@ -88,3 +88,6 @@ defaults:
       type: pages
     values:
       layout: pages
+
+gems:
+  - jekyll-redirect-from
