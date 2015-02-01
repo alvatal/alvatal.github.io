@@ -1,10 +1,17 @@
 ---
 layout: page
 title: Meie võrgustiku ettevõtted
+redirect_from:
+    - /liikmed.htm
+    - /harju-maakond.htm
+    - /tartu-maakond.htm
+    - /ida-viru-maakond.htm
+    - /viljandi-maakond.htm
+    - /rapla-maakond.htm
+    - /hiiu-maakond.htm
+    - /valga-maakond.htm
+
 ---
-
-
-
 <p>
 Altavatali asutajateks on mitmed tuntud Eesti ettevõtted, kelle eesmärgiks
 on pakkuda vabal tarkvaral põhinevaid lahendusi vähendades seeläbi
