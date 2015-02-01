@@ -126,7 +126,7 @@ layout: default
             </p>
         </div>
         <div class="col-md-6">
-            {% include map.svg %}
+            {% include map-simplified.svg %}
         </div>
     </div>
 </div>
