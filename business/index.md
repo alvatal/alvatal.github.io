@@ -12,6 +12,8 @@ redirect_from:
     - /valga-maakond.htm
 
 ---
+<div class="row">
+<div class="col-md-6">
 <p>
 Altavatali asutajateks on mitmed tuntud Eesti ettevõtted, kelle eesmärgiks
 on pakkuda vabal tarkvaral põhinevaid lahendusi vähendades seeläbi
@@ -19,7 +21,25 @@ litsentsikulusid ning austades tarkvara kasutaja privaatsust.
 Käesoleval lehel võite tutvuda meie liikmeks olevate äriühingutega
 kes on valmis teid aitama sülarvuti valikust kuni IKT-taristu 
 arhitektuuri projekteerimiseni.
+Kui te ei tea veel täpselt mida te otsite võite täita lingil oleva ankeedi
+ning me leiame teile kõige sobivama ettevõtte.
 </p>
+</div>
+
+<div class="col-md-6">
+Kui oled avatud lähtekoodiga aktiivselt tegelev ettevõte oled oodatud liituma
+Alvatali võrgustikuga.
+Selleks laadi alla lingil olev liitusmisvorm,
+täida vorm LibreOffice abil,
+ekspordi dokument PDF-iks,
+digiallkirja Eesti ID-kaardiga
+ning saada meile e-posti aadressil <a href="mailto:info@alvatal.ee">info@alvatal.ee</a>.
+Liikmeks astunud ettevõtted lisame automaatselt käesolevale lehele.
+</div>
+</div>
+
+<p><a class="btn btn-default" href="#" role="button">Küsi pakkumist &raquo;</a>
+<a class="btn btn-default" href="#" role="button">Laadi alla liitumisvorm &raquo;</a></p>
 
 <!--
 <p>
@@ -81,27 +101,34 @@ function filter() {
 
 
 <div class="row" lang="et">
-    <div class="col-md-6" id="povi">
-        <h2>Povi Software OÜ</h2>
-        <p>Povi pakub Odoo baasil ettevõtte ressursiplaneerimistarkvara.</p>
-        <a class="btn btn-default" href="http://www.povi.ee/" role="button">Loe lähemalt &raquo;</a>
+    <div class="col-md-6" id="stipit">
+        <h2>Stipit Solutions OÜ</h2>
+        <p>Stipit pakub Odoo baasil ettevõtte ressursiplaneerimistarkvara,
+        sisetelevisiooni lahendusi, Python tarkvaraarendust ning
+        sardsüsteemide konsultatsioone.</p>
+        <a class="btn btn-default" href="http://stipit.com/" role="button">Loe lähemalt &raquo;</a>
+    </div>
+    <div class="col-md-6" id="revnetek">
+        <h2>Revnetek OÜ</h2>
+        <p>
+        Revnetek pakub 
+        </p>
+    </div>
+</div>
+
+<div class="row" lang="et">
+    <div class="col-md-6" id="kyberpunk">
+        <h2>Küberpunk OÜ</h2>
+        <p>Küberpunk pakub Eesti ID-kaardi ja smartcard alaseid konsultatsioone ning
+        tarkvara arendust.</p>
+        <a class="btn btn-default" href="#" role="button">Loe lähemalt &raquo;</a>
     </div>
     <div class="col-md-6">
-        <h2 style="color:red;">Sinu ettevõte</h2>
+        <h2>Revnetek OÜ</h2>
         <p>
-        Avatud lähtekoodiga sina peal oleva ettevõttena eeldame, et oled
-        kursis Git versioonihalduse ning GitHub keskkonnaga.
-        Enne formaalselt liikmeks astumist oled teretulnud lisama oma ettevõtte
-        kirjelduse käesolevasse nimistusse.
-        Kui Teil ei ole võimalik oma ettevõtte kirjeldust mingil põhjusel
-        GitHubi kaudu lisada, siis saatke meile oma ettevõtte kirjeldus e-kirjaga.
-        Alvatali liikmeks astunud ettevõtete kirjeldused lisatakse
-        meie poolt automaatselt.
+        Revnetek pakub 
         </p>
-        <a class="btn btn-default" href="https://github.com/alvatal/alvatal.github.io/blob/master/business.md" role="button">GitHub varamusse &raquo;</a>
     </div>
-    
-
 </div>
 
 

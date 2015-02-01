@@ -11,7 +11,7 @@ layout: default
             </div>
         </div>
         <div class="col-md-8" class="advertise">
-            <p>Vabavara abil:</p>
+            <p>Alvatal aitab sinul kasutusele võta vabavara, sest nii:</p>
             <ul class="ticks">
                 <li>on sinul parem kontroll IT üle</li>
                 <li>vähendad kulusid</li>
@@ -31,7 +31,7 @@ layout: default
         tegemisi koondav katusorganisatsioon.
         </p>
         <p>
-        <a class="btn btn-primary btn-lg" href="#" role="button">Meist ja meie tegemistest pikemalt &raquo;</a>
+        <a class="btn btn-primary btn-lg" href="#scroll-down" role="button">Meist ja meie tegemistest pikemalt &raquo;</a>
         </p>
     </div>
 </div>
@@ -39,18 +39,22 @@ layout: default
 <div class="container partners">
     <div class="row">
 
-
-        <a href="https://www.mkm.ee/"><img src="/assets/img/mkm.png"/></a>
-        <a href="http://www.tallinn.ee/est/haridus/"><img src="/assets/img/haridusamet.png"/></a>
-        <a href="https://www.ria.ee/"><img src="/assets/img/ria.png"/></a>
-        <a href="http://www.hitsa.ee/"><img src="/assets/img/hitsa.png"/></a>
-        <a href="http://www.itcollege.ee/"><img src="/assets/img/eik.png"/></a>
-        <a href="http://www.eenet.ee/"><img src="/assets/img/eenet.png"/></a>
         <p>Meie koostööpartnerid</p>
+        <img src="/assets/img/mkm.png"/>
+        <img src="/assets/img/haridusamet.png"/>
+        <img src="/assets/img/ria.png"/>
+        <img src="/assets/img/hitsa.png"/>
+        <img src="/assets/img/eik.png"/>
+        <img src="/assets/img/eenet.png"/>
+
     </div>
 </div>
 
-<div class="inverted">
+<div style="text-align:center; padding: 1em 0 0;">
+    {% include scroll-down.svg %}
+</div>
+
+<div class="inverted" id="scroll-down">
 <div class="container" lang="et">
     <div class="row">
         <div class="col-md-4">
@@ -83,9 +87,9 @@ layout: default
             
             
             </p>
-            <a class="btn btn-default" href="#" role="button">Üritused &raquo;</a>
-            <a class="btn btn-default" href="/network/business/" role="button">Ettevõtted &raquo;</a>
-
+            <a class="btn btn-default" href="/talgud/" role="button">Eraisikule &raquo;</a>
+            <a class="btn btn-default" href="/business/" role="button">Ettevõttele &raquo;</a>
+            <a class="btn btn-default" href="/edu/" role="button">Haridusasutusele &raquo;</a>
         </div>
         <div class="col-md-4">
             <h2>Kasu mulle?</h2>
@@ -110,46 +114,25 @@ layout: default
 
 <div class="container">
     <div class="row">
-        <div class="col-md-4">
+        <div class="col-md-6">
             <h2>Võrgustik</h2>
-            <p>Alvatali liikmed moodustavad võrgustiku mis katab terve
+            <p>
+            Alvatali asutajateks on Arvuti Traumapunkt OÜ ning Active Systems OÜ.
+            Nüüdseks on Alvataliga liitunud mitmed teised ettevõtted
+            ning Alvatali liikmed moodustavad võrgustiku mis katab terve
             Eesti.
+            Meie seast võite leida omale IT-mehe või äripartneri tulevaste
+            ettevõtmiste jaoks.
             </p>
         </div>
-        <div class="col-md-8">
+        <div class="col-md-6">
             {% include map.svg %}
         </div>
     </div>
 </div>
 
-
-<div class="container">
-      <div class="row">
-        <div class="col-md-4">
-          <h2>Vaba Tarkvara Päev</h2>
-          <p>
-          Korraldasime koostöös Riigi Infosüsteemide Ametiga
-          Vaba Tarkvara Päeva 26. septembril 2014.
-          <img src="assets/img/software-freedom-day-squarish.png" style="float:right;" alt="[Software Freedom Day]"/>
-          Üritus osutus väga menukaks ning kohad täitusid esimeste päevade jooksul.
-
-          </p>
-          <p><a class="btn btn-default" href="#" role="button">Loe lähemalt &raquo;</a></p>
-       </div>
-        <div class="col-md-4">
-          <h2>Küsi mult Linuxit</h2>
-
-          <p>Iga aasta septembris korraldame kampaaniat Küsi mult Linuxit. 
-          <img src="http://kysi-mult-linuxit.alvatal.ee/kysi-mult-linuxit-halo.png" alt="[Küsi mult Linuxit]" style="float:right; padding: 0.5em 0 0.5em 1em;"/>
-          Kampaania eesmärk on tuua välja põhjusi, miks sa võiksid mõnda
-          Linuxi opsüsteemi kasutada, ja julgustada sind ka reaalselt Linuxit proovima.</p>
-          
-
-          
-          
-          <p><a class="btn btn-default" href="http://kysi-mult-linuxit.alvatal.ee/" role="button">Loe lähemalt &raquo;</a></p>
-        </div>
-      </div>
-
-
+<div class="inverted">
+{% include sections/vaba-tarkvara-paev.html %}
 </div>
+
+{% include sections/kysi-mult-linuxit.html %}

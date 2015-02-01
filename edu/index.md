@@ -57,7 +57,7 @@ layout: default
             Pidgin muudesse suhtlus&shy;võrgustikesse ühendumiseks.
             
             </p>
-            <p><a class="btn btn-default" href="#" role="button">Vaata kuvatõmmiseid &raquo;</a></p>
+            <p><a class="btn btn-default" href="software/" role="button">Täpsemalt tarnitavast tarkvarast &raquo;</a></p>
 
         </div>
 
