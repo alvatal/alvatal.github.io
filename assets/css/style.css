@@ -240,7 +240,7 @@ article .document span.published { display: none; }
 }
 
 .advertise {
-    font-size: 20pt;
+    font-size: 16pt;
 }
 
 ul.ticks {
@@ -249,7 +249,28 @@ ul.ticks {
 }
 
 ul.ticks li:before {
-    content: '✔';
+    content: '✓';
     color: green;
     padding: 0 0.5em;
+}
+
+.inverted {
+    background-color: #333;
+    color: #fff;
+    text-shadow: 0px 0px 2px #000;
+    padding: 2em 0;
+    margin: 2em 0;
+}
+
+.inverted .btn {
+    text-shadow: none;
+}
+
+.partners {
+    padding: 1em 0;
+    text-align: center;
+}
+
+.partners img {
+    margin: 0.5em 1em;
 }
