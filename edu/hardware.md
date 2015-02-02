@@ -105,7 +105,7 @@ layout: page
             Smart Notebook tarkvarast eksportida töid
             .iwb vormingusse mida on hiljem võimalik Open-Sankorésse importida.
             </p>
-            <p><a class="btn btn-default" src="http://open-sankore.org/" target="_blank" role="button">Open-Sankoré &raquo;</a></p>
+            <p><a class="btn btn-default" href="http://open-sankore.org/" target="_blank" role="button">Open-Sankoré &raquo;</a></p>
 
         </div>
         <div class="col-md-4">

@@ -117,7 +117,9 @@ layout: default
         <div class="col-md-6">
             <h2>Võrgustik</h2>
             <p>
-            Alvatali asutajateks on Arvuti Traumapunkt OÜ ning Active Systems OÜ.
+            Alvatali asutajateks on Arvuti Traumapunkt OÜ, Active Systems OÜ,
+            Nex Data Systems OÜ, Zeroconf OÜ, Teknet Arvutid OÜ,
+            Pingviinitiivul OÜ ja Povi Software OÜ.
             Nüüdseks on Alvataliga liitunud mitmed teised ettevõtted
             ning Alvatali liikmed moodustavad võrgustiku mis katab terve
             Eesti.
