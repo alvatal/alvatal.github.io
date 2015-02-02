@@ -7,7 +7,7 @@ layout: default
     <div class="row">
         <div class="col-md-4">
             <div style="width: 80%; margin: auto;">
-            {% include alvatal-logo-alternative.svg %}
+            {% include alvatal-logo.svg %}
             </div>
         </div>
         <div class="col-md-8" class="advertise">
