@@ -3,11 +3,11 @@ title: Teretulemast
 layout: default
 ---
 
-<div class="container" style="margin-top:5em; padding: 1em 0;">
+<div class="container" id="gallery" style="padding-top:6em; margin: 0 auto;">
     <div class="row">
         <div class="col-md-4">
             <div style="width: 80%; margin: auto;">
-            {% include alvatal-logo.svg %}
+            {% include alvatal-logo-alternative.svg %}
             </div>
         </div>
         <div class="col-md-8" class="advertise">
@@ -24,7 +24,7 @@ layout: default
     </div>
 </div>
 
-<div class="inverted" style="padding:0.4em 0; margin:1em 0;">
+<div style="background-color: rgba(0,0,0,0.7); position: relative; top:-100px; height:100px; margin-bottom:-90px; display:block;">
     <div class="container" style=" padding-top:2mm; padding-bottom:2mm;">
         <p style="color:white; text-shadow: black 0 0 20px;">
         Alvatal on Eesti avatud lähtekoodiga ning vaba tarkvara
@@ -87,12 +87,12 @@ layout: default
             
             
             </p>
-            <a class="btn btn-default" href="/talgud/" role="button">Eraisikule &raquo;</a>
+            <a class="btn btn-default" href="/private/" role="button">Eraisikule &raquo;</a>
             <a class="btn btn-default" href="/business/" role="button">Ettevõttele &raquo;</a>
             <a class="btn btn-default" href="/edu/" role="button">Haridusasutusele &raquo;</a>
         </div>
         <div class="col-md-4">
-            <h2>Kasu mulle?</h2>
+            <h2>Kasu minule?</h2>
             <p>
             Kinnised lahendused on tavaliselt kaitstud tootja&shy;lukuga 
             ehk siis

@@ -13,9 +13,7 @@ layout: page
             ning võrgukettale talletatud dokumendid on varundatud.
             </p>
         </div>
-        <div class="col-md-6">
-            <img src="#" alt="[Kuvatõmmis]"/>
-        </div>
+
     </div>
 </div>
 
@@ -45,7 +43,7 @@ layout: page
             
             </p>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-3">
             <h2>VLC</h2>
             <p>
             VLC on multiplatvormne meediarakendus mis võimaldab
@@ -53,10 +51,16 @@ layout: page
             VLC abil saate ka DVD-sid ning Bluray meediumi kasutada.
             </p>
         </div>
+        <div class="col-md-1">
+            {% include icons/vlc.svg %}
+        </div>
 </div>
 <div class="container">
       <div class="row">
-        <div class="col-md-4">
+        <div class="col-md-1">
+            {% include icons/gimp.svg %}
+        </div>
+        <div class="col-md-3">
             <h2>GIMP</h2>
             <p>
             GIMP on pilditöötlusprogramm, mis peaks ka kõige nõudlikuma
@@ -85,7 +89,10 @@ layout: page
 </div>
 <div class="container">
       <div class="row">
-        <div class="col-md-4">
+        <div class="col-md-1">
+            {% include icons/geogebra.svg %}
+        </div>
+        <div class="col-md-3">
             <h2>Geogebra</h2>
             <p>
             Geogebra on ...

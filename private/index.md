@@ -17,7 +17,7 @@ redirect_from:
         Vabavaratalgute raames aitame inimestel vananenud arvutitele hinge sisse puhuda Ubuntu abil.
         </p>
         <p>
-        <a class="btn btn-primary btn-lg" target="_blank" href="http://goo.gl/bWSLxd" role="button">Registreeru järgmistele talgutele &raquo;</a>
+        <a class="btn btn-primary btn-lg" target="_blank" href="http://eepurl.com/bc6GmX" role="button">Registreeru järgmistele talgutele &raquo;</a>
         </p>
     </div>
 </div>

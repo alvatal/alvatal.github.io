@@ -1,5 +1,5 @@
 ---
-title: Tallinx
+title: Haridusasutusele
 layout: default
 ---
 
@@ -13,7 +13,7 @@ layout: default
         Eesti IT Kolledži triple-boot arvutid võimaldavad õpetada nii Ubuntu, Mac OS X kui Windows baasil tarkvara arendamist ja administreerimist.
         </p>
         <p>
-        <a class="btn btn-primary btn-lg" href="#" role="button">Võta ka oma asutuses vabavara kasutusele &raquo;</a>
+        <a class="btn btn-primary btn-lg" href="http://eepurl.com/bc7eCH" target="_blank" role="button">Võta ka oma asutuses vabavara kasutusele &raquo;</a>
         </p>
     </div>
 </div>
@@ -136,10 +136,7 @@ layout: default
       </div>
 
 
+   
+
 </div>
 
-<div id="preload">
-    <div class="frame1"></div>
-    <div class="frame2"></div>
-    <div class="frame3"></div>
-</div>
