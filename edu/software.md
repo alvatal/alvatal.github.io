@@ -11,16 +11,21 @@ layout: page
             Kasutajate ja tarkvara haldus ning võrguketas on lahendatud keskselt,
             mis tähendab seda et kasutajad saavad mugavalt liikuda arvutite vahel
             ning võrgukettale talletatud dokumendid on varundatud.
+            Allpool oleme välja toonud nimekirja tarkvarast mida tarnime
+            Tallinna Haridusameti piloodis.
             </p>
+            <p><a class="btn btn-default" href="http://eepurl.com/bc7eCH" target="_blank" role="button">Soovin võtta kasutusele oma asutuses &raquo;</a></p>
         </div>
-
+        <div class="col-md-6">
+            <img src="http://lauri.vosandi.com/cache/6382c8a0ef9cbb5d9045ab1fb0b912d1.png" style="max-width:100%;max-height:100%;"/>
+        </div>
     </div>
 </div>
 
 <div class="container">
       <div class="row">
         <div class="col-md-4">
-            <h2>Mozilla Firefox</h2>
+            <h2><img src="http://people.mozilla.org/~faaborg/files/shiretoko/firefoxIcon/firefox-48.png"/> Mozilla Firefox</h2>
             <p>
             Mozilla Firefox on Mozilla fondi poolt arendatav
             avatud lähtekoodiga veebilehitseja millega saab
@@ -29,9 +34,11 @@ layout: page
             Mozilla Firefoxi abil saate veebis ID-kaaridga autentida ning
             digitaalselt allkirja anda.
             </p>
+            <p><a class="btn btn-default" href="https://www.mozilla.org/et/" target="_blank" role="button">FireFoxist pikemalt &raquo;</a></p>
+
         </div>
         <div class="col-md-4">
-            <h2>LibreOffice</h2>
+            <h2>{% include icons/libreoffice.svg %} LibreOffice</h2>
             <p>
             LibreOffice on avatud lähtekoodiga ning tasuta levitatav
             kontoritarkvara pakett mille 
@@ -42,71 +49,89 @@ layout: page
             
             
             </p>
+            <p><a class="btn btn-default" href="http://www.libreoffice.ee/" target="_blank" role="button">LibreOfficest pikemalt &raquo;</a></p>
         </div>
-        <div class="col-md-3">
-            <h2>VLC</h2>
+        <div class="col-md-4">
+            <h2>{% include icons/vlc.svg %} VLC</h2>
             <p>
             VLC on multiplatvormne meediarakendus mis võimaldab
             avada enimlevinud heli-, video- ning subtiitrite vorminguid.
-            VLC abil saate ka DVD-sid ning Bluray meediumi kasutada.
+            VLC abil saate ka DVD-sid ning Bluray meediumi maha mängida.
             </p>
-        </div>
-        <div class="col-md-1">
-            {% include icons/vlc.svg %}
+            <p><a class="btn btn-default" href="http://www.videolan.org/vlc/" target="_blank" role="button">VLC-st pikemalt &raquo;</a></p>
+
         </div>
 </div>
 <div class="container">
       <div class="row">
-        <div class="col-md-1">
-            {% include icons/gimp.svg %}
-        </div>
-        <div class="col-md-3">
-            <h2>GIMP</h2>
+        <div class="col-md-4">
+            <h2>{% include icons/gimp.svg %} GIMP</h2>
             <p>
             GIMP on pilditöötlusprogramm, mis peaks ka kõige nõudlikuma
             fotograafi vajadusi rahuldama.
             Kui soovite GIMP-i kasutada ühes aknas nii nagu Photoshopi puhul harjumuseks on
             piisab selleks
-            vaid vastava valiku sisse lülitamisest (Aknad -> Single-Window Mode).
+            vaid vastava valiku sisse lülitamisest (Aknad → Single-Window Mode).
             </p>
+            <p><a class="btn btn-default" href="http://www.gimp.org/" target="_blank" role="button">Gimpist pikemalt &raquo;</a></p>
+
         </div>
         <div class="col-md-4">
-            <h2>Inkscape</h2>
+            <h2>{% include icons/inkscape.svg %} Inkscape</h2>
             <p>Inkscape on Eesti sugemetega Sodipodi järeltulija
             mille abil saate SVG vormingus vektorgraafilisi dokumente
             koostada ning neid hiljem erinevatesse vormingutesse eksportida.
             </p>
-            
+            <p><a class="btn btn-default" href="https://inkscape.org/" target="_blank" role="button">Inkscape'st pikemalt &raquo;</a></p>
         </div>
         <div class="col-md-4">
-            <h2>Dia</h2>
+            <h2>{% include icons/dia.svg %} Dia</h2>
             <p>Dia on graafikute ja skeemide koostamiseks ette nähtud 
             programm. Diast saab eksportida dokumente PDF, SVG ja PNG vormingutesse.
             </p>
-            
+            <p><a class="btn btn-default" href="https://wiki.gnome.org/Apps/Dia/" target="_blank" role="button">Diast pikemalt &raquo;</a></p>
+
         </div>
     </div>
-</div>
-<div class="container">
-      <div class="row">
-        <div class="col-md-1">
-            {% include icons/geogebra.svg %}
-        </div>
-        <div class="col-md-3">
-            <h2>Geogebra</h2>
+    <div class="row">
+
+            
+
+        <div class="col-md-4">
+            <h2>{% include icons/geogebra.svg %} GeoGebra</h2>
             <p>
             Geogebra on ...
             </p>
+            <p><a class="btn btn-default" href="https://www.geogebra.org/" target="_blank" role="button">GeoGebrast pikemalt &raquo;</a></p>
+
         </div>
         <div class="col-md-4">
-            <h2>Pidgin</h2>
+            <h2>{% include icons/pidgin.svg %} Pidgin</h2>
             <p>Pidgin abil saad ühenduda MSN, ICQ ja paljudesse muudesse
             suhtlusvõrgustikesse.
             </p>
+            <p><a class="btn btn-default" href="https://www.pidgin.im/" target="_blank" role="button">Pidginist pikemalt &raquo;</a></p>
+
             
         </div>
+
+    </div>
+    <div class="row">
+
+            
+
         <div class="col-md-4">
-            <h2>OpenShot Video Editor</h2>
+            <h2>{% include icons/darktable.svg %} Darktable</h2>
+            <p>
+            Darktable on fotode töötlemiseks mõeldud tarkvara, mis saab hakkama
+            ka erinevate RAW vormingutega.
+            </p>
+            <p><a class="btn btn-default" href="http://www.darktable.org/" target="_blank" role="button">Darktable'st pikemalt &raquo;</a></p>
+
+        </div>
+
+        <div class="col-md-4">
+            <h2>{% include icons/openshot.svg %} OpenShot</h2>
             <p>OpenShot abil saate filmitud videolõike töödelda, lisada effekte,
             teksti ja eksportida video erinevatesse vormingutesse.
             

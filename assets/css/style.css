@@ -274,3 +274,8 @@ ul.ticks li:before {
 .partners img {
     margin: 0.5em 1em;
 }
+
+h2 svg {
+    position: relative;
+    top: 12px;
+}

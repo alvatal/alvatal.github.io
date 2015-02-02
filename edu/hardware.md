@@ -31,7 +31,7 @@ layout: page
             <h2>Tööjaamad</h2>
             <p>
             Tööjaamadele Ubuntu paigaldamine pole tänapäeval enam suur probleem.
-            Mõne uuema arvuti puhul on lihtsalt tarvis süsteemi mõnest võtmekomponendist
+            Mõne uuema arvuti puhul on tarvis süsteemi mõnest võtmekomponendist
             lihtsalt uuem versioon paigaldada.
             Kõikidele piloodis osalenutele arvutitele sai paigaldatud Ubuntu 12.04 koos LXDE töölauaga.
             Hetkel juba uuendame masinaid Ubuntu 14.04 peale.
@@ -100,8 +100,10 @@ layout: page
             nende Windowsi versiooniga, mistõttu soovitame õppematerjale aegsasti
             üle viia avatud vahenditele nagu näiteks
             <a href="http://open-sankore.org/">Open-Sankoré</a>.
-            Õnneks saab Smart Notebook tarkvarast eksportida töid
-            .iwb vormingus mida on hiljem võimalik Open-Sankorésse importida.
+
+            Kõiki töid ei pea õnneks nullist ringi tegema -
+            Smart Notebook tarkvarast eksportida töid
+            .iwb vormingusse mida on hiljem võimalik Open-Sankorésse importida.
             </p>
             <p><a class="btn btn-default" src="http://open-sankore.org/" target="_blank" role="button">Open-Sankoré &raquo;</a></p>
 
