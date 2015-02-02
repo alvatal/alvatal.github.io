@@ -14,16 +14,25 @@ title_prefix: Alvatal
     <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    <link href="{{ '/assets/css/bootstrap.min.css' | prepend: site.baseurl }}" rel="stylesheet">
-    <link href="{{ '/assets/css/font-awesome.min.css'  | prepend: site.baseurl }}" rel="stylesheet">
-    <link href="{{ '/assets/css/style.css' | prepend: site.baseurl }}" rel="stylesheet">
-    <script type="text/javascript" src="{{ '/assets/js/jquery.min.js' | prepend: site.baseurl }}"></script>
-    <script type="text/javascript" src="{{ '/assets/js/bootstrap.min.js' | prepend: site.baseurl }}"></script>
-    <script type="text/javascript" src="{{ '/assets/js/app.js' | prepend: site.baseurl }}"></script>
+    <link href="{{ site.baseurl }}/assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/assets/css/font-awesome.min.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/assets/css/style.css" rel="stylesheet">
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/js/bootstrap.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $("#navbar li").each(function(index, item) {
+                var link = $("a", item);
+                if (window.location.pathname == $(link).attr("href")) {
+                    $(item).addClass("active");
+                }
+            });
+        });
+    </script>
     {% if page.feed == 'rss' %}
-    <link rel="alternate" type="application/rss+xml" title="{{ page.title_prefix }} RSS feed" href="{{ '/feed/rss/' | prepend: site.baseurl }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ page.title_prefix }} RSS feed" href="{{ site.baseurl }}/feed/rss/">
     {% elsif page.feed == 'atom' %}
-    <link rel="alternate" type="application/atom+xml" title="{{ page.title_prefix }} Atom feed" href="{{ '/feed/atom/' | prepend: site.baseurl }}" />
+    <link rel="alternate" type="application/atom+xml" title="{{ page.title_prefix }} Atom feed" href="{{ site.baseurl }}/feed/atom/" />
     {% endif %}
 </head>
 <body id="pagetop">
@@ -36,19 +45,18 @@ title_prefix: Alvatal
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="{{ '/' | prepend: site.baseurl }}">{{ page.title_prefix }}</a>
+                <a class="navbar-brand" href="{{ site.baseurl }}">{{ page.title_prefix }}</a>
             </div>
             <div id="navbar" class="collapse navbar-collapse">
                 <ul class="nav navbar-nav">
-                    <li><a href="{{ '/news/' | prepend: site.baseurl }}">Uudised</a></li>
-                    <li><a href="{{ '/private/' | prepend: site.baseurl }}">Eraisikule</a></li>
-                    <li><a href="{{ '/business/' | prepend: site.baseurl }}">Ettevõttele</a></li>
-                    <li><a href="{{ '/edu/' | prepend: site.baseurl }}">Haridusasutusele</a></li>
-                    <!-- <li><a href="{{ '/goals/' | prepend: site.baseurl }}">Eesm&auml;rgid</a></li> -->
-                    <!-- <li><a href="{{ '/network/' | prepend: site.baseurl }}">V&otilde;rgustik</a></li> -->
-
-                    <!-- <li><a href="{{ '/portfolio/' | prepend: site.baseurl }}">Portfoolio</a></li> -->
-                    <!-- <li><a href="{{ '/channels/' | prepend: site.baseurl }}">Kanalid</a></li> -->
+                    <li><a href="{{ site.baseurl }}/news/">Uudised</a></li>
+                    <li><a href="{{ site.baseurl }}/private/">Eraisikule</a></li>
+                    <li><a href="{{ site.baseurl }}/business/">Ettevõttele</a></li>
+                    <li><a href="{{ site.baseurl }}/edu/">Haridusasutusele</a></li>
+                    <!-- <li><a href="{{ site.baseurl }}/goals/">Eesm&auml;rgid</a></li> -->
+                    <!-- <li><a href="{{ site.baseurl }}/network/">V&otilde;rgustik</a></li> -->
+                    <!-- <li><a href="{{ site.baseurl }}/portfolio/">Portfoolio</a></li> -->
+                    <!-- <li><a href="{{ site.baseurl }}/channels/">Kanalid</a></li> -->
                 </ul>
             </div>
         </div>
@@ -60,7 +68,7 @@ title_prefix: Alvatal
         <a class="navbar-toggle nav-link" href="#pagetop">
             <i class="fa fa-arrow-up fa-lg"></i>
         </a>
-        <a class="navbar-toggle nav-link" href="{{ '/' | prepend: page.feed | prepend: '/feed/' | prepend: site.baseurl }}">
+        <a class="navbar-toggle nav-link" href="{{ site.baseurl }}/feed/">
             <i class="fa fa-rss fa-lg"></i>
         </a>
     </nav>
@@ -72,7 +80,6 @@ title_prefix: Alvatal
                     <ul>
                         <li>E-post: <a href="mailto:info@alvatal.ee">info@alvatal.ee</a></li>
                         <li>Telefon: <a href="tel:+37256656134">+372 56656134</a></li>
-
                         <li>Registrikood: 80328453</li>
                         <li>IBAN: EE362200221055871209</li>
                     </ul>
