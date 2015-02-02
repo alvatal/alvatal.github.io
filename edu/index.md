@@ -39,7 +39,7 @@ redirect_from:
             Ülemineku aitavad reaalselt läbi viia Alvatali võrgustikku
             kuuluvad ettevõted.
             </p>
-            <a class="btn btn-default" href="#" role="button">Loe mida piloodis osalejad arvavad &raquo;</a></p>
+            <a class="btn btn-default" href="testimonials/" role="button">Loe mida piloodis osalejad arvavad &raquo;</a></p>
         </div>
 
         <div class="col-md-4">
@@ -112,8 +112,7 @@ redirect_from:
             Android ning iPhone nutitelefonidega.
             Tallinna Haridusameti piloodis osalejatele on OwnCloud teenus hinna sees. 
             </p>
-            <p><a class="btn btn-default" href="#" role="button">Küsi abi meie spetsialistidelt &raquo;</a></p>
-            <p><a class="btn btn-default" href="/business/" role="button">Paigalda OwnCloud ise &raquo;</a></p>
+            <p><a class="btn btn-default" href="http://eepurl.com/bc7eCH" role="button">Küsi abi meie spetsialistidelt &raquo;</a></p>
 
         </div>
         <div class="col-md-4">
@@ -134,7 +133,7 @@ redirect_from:
 
           
           
-          <p><a class="btn btn-default" href="http://kysi-mult-linuxit.alvatal.ee/" role="button">Loe lähemalt &raquo;</a></p>
+          <p><a class="btn btn-default" href="http://eepurl.com/bc7eCH" role="button">Küsi abi meie spetsialistidelt &raquo;</a></p>
         </div>
       </div>
 

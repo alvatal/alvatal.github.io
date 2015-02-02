@@ -1,0 +1,24 @@
+---
+title: Tallinna Haridusameti piloodis osalejate arvamused
+layout: page
+---
+
+<div class="container">
+    <h2>Merivälja kool</h2>
+    <div class="row">
+        <div class="col-md-8">
+
+            <p>
+Vaba tarkvara projektiga liitumisel on oluline omada ülevaadet asutuses kasutusel olevast tarkvarast, riistvarast ja kasutajatest. 
+Riistvara (näiteks interaktiivsed tahvlid või printerid) ei pruugi projektis kasutatavate Lubuntu 12.04, 14.04 LTS operatsioonisüsteemidega ühilduda. Pilootprojekti käigus ilmnes, et SMART Technologies interaktiivsed tahvlid SB 480 ei ühildu Lubuntu 12.04 LTS operatsioonisüsteemiga. Ühilduvus probleemile on hetkel leitud ajutine lahendus. Lisaks on nimetatud seadme rakendustarkvara Notebook Lubuntu 12.04 LTS'iga kasutades funktionaalsuselt piiratum võrreldes Windowsiga. Printerite osas on kõige probleemsemad olnud Canoni tooted, mis on välja vahetatud Lexmarki, HP või mõne muu tootja seadmega.
+Tarkvarade puhul on oluline Linuxiliste(Lubuntu 12.04/14.04 LTS) tugi. Juhul, kui tarkvara ei ole toetatud Linuxilistel, siis teades milliseid funktsionaalsusi tarkvara puhul kasutatakse on vajadusel võimalik leida alternatiive. Tunniplaani koostamise tarkvara aSc Timetables tarkvara ei ole Linuxilistel otse toetatud kuid Wine abil on seda siiski võimalik kasutada. Tarkvara paigaldus ja eemaldamine toimub keskselt.
+Tarvilik on mõelda seni loodud dokumentide edaspidisele kasutamisele ehk mis saab siis, kui omanduslikud tarkvara ei ole toetatud Lubuntul ja eelnevalt nimetatud tarkvaraga loodud dokumendid ei ole avatavad. 
+Üldjoontes Lubuntu ja Libreoffice kooslus rahuldab haridusasutuse funktsionaalseid nõudeid.
+            </p>
+        </div>
+        <div class="col-md-4" style="text-align:center;">
+            <img src="/assets/img/peeter.jpg" style="max-width:100%;max-height:100%;"/>
+            <i>Peeter Laanoja, Merivälja kooli IT-tugi</i>
+        </div>
+    </div>
+</div>
