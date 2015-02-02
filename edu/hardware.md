@@ -26,8 +26,8 @@ layout: page
 </div>
 
 <div class="container">
-      <div class="row">
-        <div class="col-md-4">
+    <div class="row">
+        <div class="col-md-8">
             <h2>Tööjaamad</h2>
             <p>
             Tööjaamadele Ubuntu paigaldamine pole tänapäeval enam suur probleem.
@@ -40,8 +40,16 @@ layout: page
             Järgmise põlvkonna arvutid on SSD püsimäluga,
             passiivjahutusega, energiasäästlikud ning pisikesed.
             </p>
+            <p><a class="btn btn-default" target="_blank" href="http://www.intel.com/content/www/us/en/nuc/overview.html" role="button">Täpsemalt järgmise põlvkonna PC-dest &raquo;</a></p>
         </div>
+
         <div class="col-md-4">
+            <img src="http://techreport.com/r.x/intel-nuc/nuc-hand-ports1.jpg" style="max-width:100%;max-height:100%;"/>
+        </div>
+    </div>
+    <hr/>
+    <div class="row">
+        <div class="col-md-8">
             <h2>Sülearvutid</h2>
             <p>
             DELL pakub Ubuntuga sülearvuteid.
@@ -49,10 +57,20 @@ layout: page
             Alvatali üks eesmärkidest on Eestis esile tuua sülearvutite
             tarnijaid kellelt on võimalik osta sülearvutit kas
             siis tarkvarata või pingviinilisega.
-            
+            Ubuntu kodulehelt leiab nimekirja sertifitseeritud riistvaraga
+            mis on hea algus uurimustööle.
             </p>
+            <p><a class="btn btn-default" href="http://www.ubuntu.com/certification/desktop/" role="button">Ubuntu sertifitseeritud sülearvutid &raquo;</a></p>
         </div>
+
         <div class="col-md-4">
+            <img src="http://www.ubuntu.com/certification/static/images/image-laptop.jpg" style="max-width:100%;max-height:100%;"/>
+        </div>
+
+    </div>
+    <hr/>
+    <div class="row">
+        <div class="col-md-8">
             <h2>Printerid</h2>
             <p>
             Meie tungiv soovitus on eelistada IPP (Internet Printing Protocol)
@@ -67,6 +85,12 @@ layout: page
             </p>
         </div>
         <div class="col-md-4">
+            <img src="https://www.pwg.org/ipp/ipp-everywhere@2x.png" style="max-width:100%;max-height:100%;margin:auto;display:block;"/>
+        </div>
+    </div>
+    <hr/>
+    <div class="row">
+        <div class="col-md-8">
             <h2>Tahvlid</h2>
             <p>
             Koolides on hetkel kasutusel QOMO ning Smarttech SB480 ning SB600 tahvlid.
@@ -76,7 +100,14 @@ layout: page
             nende Windowsi versiooniga, mistõttu soovitame õppematerjale aegsasti
             üle viia avatud vahenditele nagu näiteks
             <a href="http://open-sankore.org/">Open-Sankoré</a>.
+            Õnneks saab Smart Notebook tarkvarast eksportida töid
+            .iwb vormingus mida on hiljem võimalik Open-Sankorésse importida.
             </p>
+            <p><a class="btn btn-default" src="http://open-sankore.org/" target="_blank" role="button">Open-Sankoré &raquo;</a></p>
+
+        </div>
+        <div class="col-md-4">
+            <img src="http://open-sankore.org/sites/default/files/styles/slideshow_front/public/slideshow_front/field/image_slideshow/ergonomique_0.jpg" style="max-width:100%;max-height:100%;margin:auto;display:block;"/>
         </div>
     </div>
 </div>
