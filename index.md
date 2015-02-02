@@ -106,7 +106,7 @@ layout: default
             era&shy;isiku kui ette&shy;võtte jaoks, ees&shy;märgiga pikemas pers&shy;pek&shy;tiivis
             kulusid vähendada ning luua jätku&shy;suutelisi IKT-lahendusi.
             </p>
-            <a class="btn btn-default" href="http://kysi-mult-linuxit.alvatal.ee/" role="button">Tootjalukust lähemalt &raquo;</a></p>
+            <p><a class="btn btn-default" href="http://kysi-mult-linuxit.alvatal.ee/" role="button">Tootjalukust lähemalt &raquo;</a></p>
         </div>
     </div>
 </div>
@@ -124,6 +124,9 @@ layout: default
             Meie seast võite leida omale IT-mehe või äripartneri tulevaste
             ettevõtmiste jaoks.
             </p>
+            <p><a class="btn btn-default" href="business/" role="button">Sirvi meie võrgustikku &raquo;</a></p>
+
+
         </div>
         <div class="col-md-6">
             {% include map-simplified.svg %}
