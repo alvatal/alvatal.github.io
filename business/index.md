@@ -52,7 +52,7 @@ Liikmeks astunud ettevõtted lisame automaatselt käesolevale lehele.
 </div>
 
 <p><a class="btn btn-default" href="#" role="button">Küsi pakkumist &raquo;</a>
-<a class="btn btn-default" href="#" role="button">Laadi alla liitumisvorm &raquo;</a></p>
+<a class="btn btn-default" href="/datastore/media/liikmeks-astumise-avaldus_FIRMA.odt" role="button">Laadi alla liitumisvorm &raquo;</a></p>
 
 <!--
 <p>
@@ -124,8 +124,9 @@ function filter() {
     <div class="col-md-6" id="revnetek">
         <h2>Revnetek OÜ</h2>
         <p>
-        Revnetek pakub 
+        Revnetek Systems koostab teie ettevõttele alati teie vajadusi ja huve silmas pidava lahenduse. Teenused, mille vastu enamik ettevõtteid huvi tunnevad ning milles tänu 14 aasta pikkusele kogemusele tugevad oleme, jagunevad laias laastus neljaks.
         </p>
+        <a class="btn btn-default" href="http://revnetek.ee/" role="button">Loe lähemalt &raquo;</a>
     </div>
 </div>
 
@@ -136,16 +137,6 @@ function filter() {
         tarkvara arendust.</p>
         <a class="btn btn-default" href="#" role="button">Loe lähemalt &raquo;</a>
     </div>
-    <div class="col-md-6">
-        <h2>Revnetek OÜ</h2>
-        <p>
-        Revnetek pakub 
-        </p>
-    </div>
-</div>
-
-
-<div class="row" lang="et">
     <div class="col-md-6" id="pingviinitiivul">
         <h2>Pingviinitiivul OÜ</h2>
         <p>Pingviinitiivul vabavaraliste kliendihaldusprogrammide
@@ -155,6 +146,11 @@ function filter() {
         </p>
         <a class="btn btn-default" href="http://www.pingviinitiivul.ee/" role="button">Loe lähemalt &raquo;</a>
     </div>
+</div>
+
+
+<div class="row" lang="et">
+
     <div class="col-md-6" id="intraflex">
         <h2>Intraflex OÜ</h2>
         <p>
@@ -167,19 +163,6 @@ function filter() {
         rahvusvaheliste kui kohalike ettevõtete hulgas.
         </p>
         <a class="btn btn-default" href="http://www.intraflex.eu/" role="button">Loe lähemalt &raquo;</a>
-    </div>
-</div>
-
-<div class="row" lang="et">
-    <div class="col-md-6" id="nordtech">
-        <h2>Nordtech OÜ</h2>
-        <p>
-        Arvutiseerunud maailmas on vabavara ettevõtlikkuse parim abiline,
-        võimaldades lihtsalt ja odavalt omi realiseerida ideid tarkvaras. 
-        Meie tunneme vabavara, teame parimaid projekte ja leiame vaba tarkvara
-        laiast maailmast just teile sobivad lahendused
-        </p>
-        <a class="btn btn-default" href="http://www.nordtech.ee/" role="button">Loe lähemalt &raquo;</a>
     </div>
     <div class="col-md-6" id="nex">
         <h2>Nex Data Systems</h2>
@@ -275,7 +258,16 @@ function filter() {
         </p>
         <a class="btn btn-default" href="http://www.teknet.ee/" role="button">Loe lähemalt &raquo;</a>
     </div>
-
+    <div class="col-md-6" id="nordtech">
+        <h2>Nordtech OÜ</h2>
+        <p>
+        Arvutiseerunud maailmas on vabavara ettevõtlikkuse parim abiline,
+        võimaldades lihtsalt ja odavalt omi realiseerida ideid tarkvaras. 
+        Meie tunneme vabavara, teame parimaid projekte ja leiame vaba tarkvara
+        laiast maailmast just teile sobivad lahendused
+        </p>
+        <a class="btn btn-default" href="http://www.nordtech.ee/" role="button">Loe lähemalt &raquo;</a>
+    </div>
 
 </div>
 

@@ -79,13 +79,8 @@ redirect_from:
             </p>
             <a class="btn btn-default" href="#" role="button">Tutvu teenusepakkujatega &raquo;</a></p>
         </div>
-
-
     </div>
-</div>
-
-<div class="container">
-      <div class="row">
+    <div class="row">
         <div class="col-md-4">
             <h2>Ühilduv riistvara</h2>
             <p>
@@ -110,7 +105,8 @@ redirect_from:
             OwnCloudi abil saate jagada dokumente asutusesiseselt kui ka väljapoole.
             OwnCloud töötab nii Windowsi, Ubuntu, Mac OS X tööjaamade kui ka
             Android ning iPhone nutitelefonidega.
-            Tallinna Haridusameti piloodis osalejatele on OwnCloud teenus hinna sees. 
+            Tallinna Haridusameti piloodis osalejatele on OwnCloud teenus hinna sees,
+            teistel aitame paigaldusega kohalikule riistvarale.
             </p>
             <p><a class="btn btn-default" href="http://eepurl.com/bc7eCH" role="button">Küsi abi meie spetsialistidelt &raquo;</a></p>
 
@@ -129,16 +125,8 @@ redirect_from:
             Kohalik IT-tugiisik saab seeläbi nüri adminis&shy;treerimis&shy;töö asemel
             tegeleda asutuse IT-taristu planeerimise ja moderniseerimisega.
           </p>
-          
-
-          
-          
           <p><a class="btn btn-default" href="http://eepurl.com/bc7eCH" role="button">Küsi abi meie spetsialistidelt &raquo;</a></p>
         </div>
-      </div>
-
-
-   
-
+    </div>
 </div>
 
