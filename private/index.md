@@ -3,7 +3,20 @@ layout: default
 title: Vabavaratalgud
 redirect_from:
     - /vabavaratalgud.htm
+    - /talgute-lingid.htm
+    - /meediakajastus.htm
+    - /talgujuhi-tagasiside.htm
+    - /vanemad-arvutid.htm
+    - /slabid-7.htm
+    - /slabid-20.htm
+    - /estobuntu.htm
     - /talgute-korraldamine.htm
+    - /facebooki-lingid.htm
+    - /arutelud.htm
+    - /talgute-pildid.htm
+    - /razor-SiteSearch.htm
+    - /slabid-21.htm
+    - /ms-toodete-eluiga.htm
 ---
 
 

@@ -3,14 +3,27 @@ layout: page
 title: Meie võrgustiku ettevõtted
 redirect_from:
     - /liikmed.htm
+    - /juhatus.htm
     - /harju-maakond.htm
     - /tartu-maakond.htm
     - /ida-viru-maakond.htm
     - /viljandi-maakond.htm
     - /rapla-maakond.htm
     - /hiiu-maakond.htm
+    - /saare-maakond.htm
     - /valga-maakond.htm
-
+    - /slabid-23.htm
+    - /slabid-26.htm
+    - /slabid-31.htm
+    - /slabid-32.htm
+    - /slabid-33.htm
+    - /slabid-37.htm
+    - /slabid-34.htm
+    - /slabid-40.htm
+    - /slabid-54.htm
+    - /viiteid.htm
+    - /videokonverents.htm
+    - /videoedastus.htm
 ---
 <div class="row">
 <div class="col-md-6">

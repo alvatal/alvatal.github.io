@@ -3,7 +3,7 @@ title: Tarkvara
 layout: page
 ---
 <div class="container">
-      <div class="row">
+    <div class="row">
         <div class="col-md-6">
             <p>
             Tallinna piloodis osalevatele arvutitele on paigaldatud
@@ -15,15 +15,15 @@ layout: page
             Tallinna Haridusameti piloodis.
             </p>
             <p><a class="btn btn-default" href="http://eepurl.com/bc7eCH" target="_blank" role="button">Soovin võtta kasutusele oma asutuses &raquo;</a></p>
+            <p><a class="btn btn-default" href="https://www.youtube.com/watch?v=WtWg1Viq0is" target="_blank" role="button">LXDE töölaua tutvustus &raquo;</a></p>
+
         </div>
         <div class="col-md-6">
             <img src="http://lauri.vosandi.com/cache/6382c8a0ef9cbb5d9045ab1fb0b912d1.png" style="max-width:100%;max-height:100%;"/>
         </div>
     </div>
-</div>
-
-<div class="container">
-      <div class="row">
+    <hr/>
+    <div class="row">
         <div class="col-md-4">
             <h2><img src="http://people.mozilla.org/~faaborg/files/shiretoko/firefoxIcon/firefox-48.png"/> Mozilla Firefox</h2>
             <p>
@@ -61,9 +61,9 @@ layout: page
             <p><a class="btn btn-default" href="http://www.videolan.org/vlc/" target="_blank" role="button">VLC-st pikemalt &raquo;</a></p>
 
         </div>
-</div>
-<div class="container">
-      <div class="row">
+    </div>
+    <hr/>
+    <div class="row">
         <div class="col-md-4">
             <h2>{% include icons/gimp.svg %} GIMP</h2>
             <p>
@@ -85,6 +85,17 @@ layout: page
             <p><a class="btn btn-default" href="https://inkscape.org/" target="_blank" role="button">Inkscape'st pikemalt &raquo;</a></p>
         </div>
         <div class="col-md-4">
+            <h2>{% include icons/darktable.svg %} Darktable</h2>
+            <p>
+            Darktable on fotode töötlemiseks mõeldud tarkvara, mis saab hakkama
+            ka erinevate RAW vormingutega.
+            </p>
+            <p><a class="btn btn-default" href="http://www.darktable.org/" target="_blank" role="button">Darktable'st pikemalt &raquo;</a></p>
+        </div>
+    </div>
+    <hr/>
+    <div class="row">
+        <div class="col-md-4">
             <h2>{% include icons/dia.svg %} Dia</h2>
             <p>Dia on graafikute ja skeemide koostamiseks ette nähtud 
             programm. Diast saab eksportida dokumente PDF, SVG ja PNG vormingutesse.
@@ -92,10 +103,6 @@ layout: page
             <p><a class="btn btn-default" href="https://wiki.gnome.org/Apps/Dia/" target="_blank" role="button">Diast pikemalt &raquo;</a></p>
 
         </div>
-    </div>
-    <div class="row">
-
-            
 
         <div class="col-md-4">
             <h2>{% include icons/geogebra.svg %} GeoGebra</h2>
@@ -115,21 +122,10 @@ layout: page
             
         </div>
 
+
     </div>
+    <hr/>
     <div class="row">
-
-            
-
-        <div class="col-md-4">
-            <h2>{% include icons/darktable.svg %} Darktable</h2>
-            <p>
-            Darktable on fotode töötlemiseks mõeldud tarkvara, mis saab hakkama
-            ka erinevate RAW vormingutega.
-            </p>
-            <p><a class="btn btn-default" href="http://www.darktable.org/" target="_blank" role="button">Darktable'st pikemalt &raquo;</a></p>
-
-        </div>
-
         <div class="col-md-4">
             <h2>{% include icons/openshot.svg %} OpenShot</h2>
             <p>OpenShot abil saate filmitud videolõike töödelda, lisada effekte,

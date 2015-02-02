@@ -1,6 +1,9 @@
 ---
 title: Haridusasutusele
 layout: default
+redirect_from:
+    - /vtp-2014.htm
+    - /vtp.htm
 ---
 
 <div class="jumbotron" id="gallery" style="background-image:url('/assets/gallery/itcollege-tripleboot.jpg');">
@@ -74,7 +77,7 @@ layout: default
             Ka meie nägemus tulevikust paberivaba, kus asutused
             saavad asju ajada Interneti vahendusel.
             </p>
-            <a class="btn btn-default" href="http://kysi-mult-linuxit.alvatal.ee/" role="button">Tutvu teenusepakkujatega &raquo;</a></p>
+            <a class="btn btn-default" href="#" role="button">Tutvu teenusepakkujatega &raquo;</a></p>
         </div>
 
 
