@@ -16,7 +16,7 @@ layout: page
             Infosüsteem pakub veebipõhist paberivaba töökeskkonda olenemata
             operatsioonisüsteemist ning infosüsteemi on võimalik kasutada
             erinevatest seadmetest olenemata asukohast.
-            Teenuse taga on Haridusasutuste Infosüsteemide
+            Teenuse arenduse taga on Haridusasutuste Infosüsteemide
             Arendus OÜ, mis on asutatud aastal 2014.
             Ettevõtte eesmärgiks on pakkuda erinevaid infosüsteemide lahendusi ja
             integratsioone vabavara baasil.
