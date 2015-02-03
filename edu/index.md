@@ -77,7 +77,7 @@ redirect_from:
             Ka meie nägemus tulevikust paberivaba, kus asutused
             saavad asju ajada Interneti vahendusel.
             </p>
-            <a class="btn btn-default" href="#" role="button">Tutvu teenusepakkujatega &raquo;</a></p>
+            <a class="btn btn-default" href="providers/" role="button">Tutvu teenusepakkujatega &raquo;</a></p>
         </div>
     </div>
     <div class="row">

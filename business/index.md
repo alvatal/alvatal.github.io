@@ -51,7 +51,7 @@ Liikmeks astunud ettevõtted lisame automaatselt käesolevale lehele.
 </div>
 </div>
 
-<p><a class="btn btn-default" href="#" role="button">Küsi pakkumist &raquo;</a>
+<p><a class="btn btn-default" href="http://eepurl.com/bdcVOD" role="button">Küsi pakkumist &raquo;</a>
 <a class="btn btn-default" href="/datastore/media/liikmeks-astumise-avaldus_FIRMA.odt" role="button">Laadi alla liitumisvorm &raquo;</a></p>
 
 <!--
