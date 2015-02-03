@@ -109,6 +109,7 @@ redirect_from:
             teistel aitame paigaldusega kohalikule riistvarale.
             </p>
             <p><a class="btn btn-default" href="http://eepurl.com/bc7eCH" role="button">Küsi abi meie spetsialistidelt &raquo;</a></p>
+            <p><a class="btn btn-default" href="http://lauri.vosandi.com/cfgmgmt/owncloud.html" role="button">Paigalda ise &raquo;</a></p>
 
         </div>
         <div class="col-md-4">
