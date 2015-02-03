@@ -106,7 +106,7 @@ layout: default
             era&shy;isiku kui ette&shy;võtte jaoks, ees&shy;märgiga pikemas pers&shy;pek&shy;tiivis
             kulusid vähendada ning luua jätku&shy;suutelisi IKT-lahendusi.
             </p>
-            <p><a class="btn btn-default" href="http://kysi-mult-linuxit.alvatal.ee/" role="button">Tootjalukust lähemalt &raquo;</a></p>
+            <p><a class="btn btn-default" href="https://www.youtube.com/watch?v=hUNCwOCVYYY" target="_blank" role="button">Tootjalukust lähemalt &raquo;</a></p>
         </div>
     </div>
 </div>
