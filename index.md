@@ -1,5 +1,5 @@
 ---
-title: Teretulemast
+title: Tere tulemast
 layout: default
 ---
 
@@ -11,9 +11,9 @@ layout: default
             </div>
         </div>
         <div class="col-md-8" class="advertise">
-            <p>Alvatal aitab sinul kasutusele võta vabavara, sest nii:</p>
+            <p>Alvatal aitab Sul kasutusele võta vabavara, sest nii:</p>
             <ul class="ticks">
-                <li>on sinul parem kontroll IT üle</li>
+                <li>on Sinul parem kontroll IT üle</li>
                 <li>vähendad kulusid</li>
                 <li>pikendad arvutite eluiga</li>
                 <li>väldid pahavara</li>
