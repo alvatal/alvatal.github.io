@@ -39,7 +39,8 @@ redirect_from:
             Ülemineku aitavad reaalselt läbi viia Alvatali võrgustikku
             kuuluvad ettevõted.
             </p>
-            <a class="btn btn-default" href="testimonials/" role="button">Loe mida piloodis osalejad arvavad &raquo;</a></p>
+            <p><a class="btn btn-default" href="testimonials/" role="button">Loe mida piloodis osalejad arvavad &raquo;</a></p>
+            <p><a class="btn btn-default" href="http://lauri.vosandi.com/2014/10/tallinna-piloodiga-liitumine.html" target="_blank" role="button">Liitumise spikker IT-juhile &raquo;</a></p>
         </div>
 
         <div class="col-md-4">
@@ -108,8 +109,8 @@ redirect_from:
             Tallinna Haridusameti piloodis osalejatele on OwnCloud teenus hinna sees,
             teistel aitame paigaldusega kohalikule riistvarale.
             </p>
-            <p><a class="btn btn-default" href="http://eepurl.com/bc7eCH" role="button">Küsi abi meie spetsialistidelt &raquo;</a></p>
-            <p><a class="btn btn-default" href="http://lauri.vosandi.com/cfgmgmt/owncloud.html" role="button">Paigalda ise &raquo;</a></p>
+            <p><a class="btn btn-default" href="http://eepurl.com/bc7eCH" target="_blank" role="button">Küsi abi meie spetsialistidelt &raquo;</a></p>
+            <p><a class="btn btn-default" href="http://lauri.vosandi.com/cfgmgmt/owncloud.html" target="_blank" role="button">Paigalda ise &raquo;</a></p>
 
         </div>
         <div class="col-md-4">
@@ -126,7 +127,8 @@ redirect_from:
             Kohalik IT-tugiisik saab seeläbi nüri adminis&shy;treerimis&shy;töö asemel
             tegeleda asutuse IT-taristu planeerimise ja moderniseerimisega.
           </p>
-          <p><a class="btn btn-default" href="http://eepurl.com/bc7eCH" role="button">Küsi abi meie spetsialistidelt &raquo;</a></p>
+          <p><a class="btn btn-default" href="http://eepurl.com/bc7eCH" target="_blank" role="button">Küsi abi meie spetsialistidelt &raquo;</a></p>
+          <p><a class="btn btn-default" href="http://lauri.vosandi.com/cfgmgmt/tallinna-piloot.html" target="_blank" role="button">Täpsemalt arhitektuurist ning tulevikuplaanidest &raquo;</a></p>
         </div>
     </div>
 </div>
