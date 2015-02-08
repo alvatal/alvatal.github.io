@@ -133,9 +133,9 @@ function filter() {
 <div class="row" lang="et">
     <div class="col-md-6" id="kyberpunk">
         <h2>Küberpunk OÜ</h2>
-        <p>Küberpunk pakub Eesti ID-kaardi ja smartcard alaseid konsultatsioone ning
-        tarkvara arendust.</p>
-        <a class="btn btn-default" href="#" role="button">Loe lähemalt &raquo;</a>
+        <p>Küberpunk osutab nõustamisteenust tarkvaraarenduse, integratsiooni ja infoturbe valdkondades.
+        Eesti kõige asjalikum oskusteave kiipkaartide (ID-kaart, Mobiil-ID, NFC) ja PKI lahenduste osas.</p>
+        <a class="btn btn-default" href="https://kyberpunk.net/" role="button">Loe lähemalt &raquo;</a>
     </div>
     <div class="col-md-6" id="pingviinitiivul">
         <h2>Pingviinitiivul OÜ</h2>
