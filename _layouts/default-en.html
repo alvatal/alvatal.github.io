@@ -1,0 +1,108 @@
+---
+title_prefix: Alvatal
+---
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>{{ page.title_prefix }} - {{ page.title }}</title>
+    {% if page.description %}
+    <meta name="description" content="{{ page.description }}">
+    {% endif %}
+    <meta name="author" content="NGO Estonian Free and Open-Source Software Alliance">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link href="{{ site.baseurl }}/assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/assets/css/font-awesome.min.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/assets/css/style.css" rel="stylesheet">
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/js/bootstrap.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $("#navbar li").each(function(index, item) {
+                var link = $("a", item);
+                if (window.location.pathname == $(link).attr("href")) {
+                    $(item).addClass("active");
+                }
+            });
+        });
+    </script>
+    {% if page.feed == 'rss' %}
+    <link rel="alternate" type="application/rss+xml" title="{{ page.title_prefix }} RSS feed" href="{{ site.baseurl }}/feed/rss/">
+    {% elsif page.feed == 'atom' %}
+    <link rel="alternate" type="application/atom+xml" title="{{ page.title_prefix }} Atom feed" href="{{ site.baseurl }}/feed/atom/" />
+    {% endif %}
+</head>
+<body id="pagetop">
+    <nav class="navbar navbar-fixed-top navbar-inverse">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Men&uuml;&uuml;</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="{{ site.baseurl }}/en/">{{ page.title_prefix }}</a>
+            </div>
+            <div id="navbar" class="collapse navbar-collapse">
+                <ul class="nav navbar-nav">
+                    <li><a href="{{ site.baseurl }}/en/news/">News</a></li>
+                    <li><a href="/">In Estonian</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    {{ content }}
+
+    
+    <nav class="navbar navbar-default visible-xs navbar-header" style="margin-bottom:0">
+        <a class="navbar-toggle nav-link" href="#pagetop">
+            <i class="fa fa-arrow-up fa-lg"></i>
+        </a>
+        <a class="navbar-toggle nav-link" href="{{ site.baseurl }}/feed/">
+            <i class="fa fa-rss fa-lg"></i>
+        </a>
+    </nav>
+    <div style="padding: 3em 0; margin: 2em auto 0;" class="inverted">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3">
+                    <p>Contact</p>
+                    <ul>
+                        <li>E-mail: <a href="mailto:info@alvatal.ee">info@alvatal.ee</a></li>
+                        <li>Phone: <a href="tel:+37256656134">+372 56656134</a></li>
+                        <li>Registration code: EE80328453</li>
+                        <li>IBAN: EE362200221055871209</li>
+                    </ul>
+                </div>
+                <div class="col-md-9">
+                    <p style="float:right; text-align: right;">
+                        NGO Estonian Free and Open-Source Software Alliance<br/>
+                        &copy; 2015 Alvatal
+                    </p>
+
+                    <p>Channels</p>
+                    <ul>
+                        <li><a href="http://twitter.com/alvatal" target="_blank">Twitter</a></li>
+                        <li>Mailinglist <a href="mailto:vabatarkvara@googlegroups.com">vabatarkvara@googlegroups.com</a></li>
+                        <li>Subscribe at <a href="mailto:vabatarkvara+subscribe@googlegroups.com">vabatarkvara+subscribe@googlegroups.com</a></li>
+                        <li><a href="https://groups.google.com/forum/#!forum/vabatarkvara" target="_blank">Mailinglist archive</a></li>
+
+                        <li><a href="http://webchat.freenode.net/?nick=Helpseeker&channels=#alvatal" target="_blank">#alvatal</a> channel at Freenode IRC</li>
+                    </ul>
+                </div>
+            </div>
+         </div>
+    </div>
+    <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        var pageTracker = _gat._getTracker("UA-49732440-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+    </script>  
+</body>
+</html>
