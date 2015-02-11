@@ -23,7 +23,8 @@ layout: default-en
         </div>
     </div>
 </div>
-<div style="background-color: rgba(0,0,0,0.7); position: relative; top:-100px; height:100px; display:block;">
+
+<div style="background-color: rgba(0,0,0,0.7); position: relative; top:-100px; height:100px; margin-bottom:-90px; display:block;">
     <div class="container" style=" padding-top:2mm; padding-bottom:2mm;">
         <p style="color:white; text-shadow: black 0 0 20px;">
         Alvatal on is umbrella organization for Estonian open-source and
@@ -33,6 +34,18 @@ layout: default-en
         <a class="btn btn-primary btn-lg" href="#" role="button">More about us &raquo;</a>
         </p>
     </div>
+</div>
+
+<div class="container partners">
+    <div class="row">
+        <p>Our international partners</p>
+        <img src="/assets/img/coss.png"/>
+
+    </div>
+</div>
+
+<div style="text-align:center; padding: 3em 0 2em;">
+    {% include scroll-down.svg %}
 </div>
 
 <script type="text/javascript">

@@ -50,7 +50,7 @@ layout: default
     </div>
 </div>
 
-<div style="text-align:center; padding: 1em 0 0;">
+<div style="text-align:center; padding: 3em 0 2em;">
     {% include scroll-down.svg %}
 </div>
 
