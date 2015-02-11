@@ -39,8 +39,8 @@ layout: default-en
 <div class="container partners">
     <div class="row">
         <p>Our international partners</p>
-        <img src="/assets/img/coss.png"/>
-
+        <img title="Finnish Centre for Open Systems and Solutions" src="/assets/img/coss.png"/>
+        <img title="Bergen (BSD- and) Linux User Group" src="/assets/img/blug.png"/>
     </div>
 </div>
 
