@@ -1,12 +1,28 @@
 ---
-title: Teretulemast
-layout: default
+title: Welcome
+layout: default-en
 ---
 
-<div class="jumbotron" id="gallery" data-frame="2" style="margin:0;">
-&nbsp;
+<div class="container" id="gallery" style="padding-top:6em; margin: 0 auto;">
+    <div class="row">
+        <div class="col-md-4">
+            <div style="width: 80%; margin: auto;">
+                {% include alvatal-logo-en.svg %}
+            </div>
+        </div>
+        <div class="col-md-8" class="advertise">
+            <p>With open-source and Alvatal you:</p>
+            <ul class="ticks">
+                <li>have better control over IT</li>
+                <li>reduce costs</li>
+                <li>extend lifetime of equipment</li>
+                <li>avoid malware</li>
+                <li>ensure trust and reliability of computing systems</li>
+                <li>ensure sustainability of your IT</li>
+            </ul>
+        </div>
+    </div>
 </div>
-
 <div style="background-color: rgba(0,0,0,0.7); position: relative; top:-100px; height:100px; display:block;">
     <div class="container" style=" padding-top:2mm; padding-bottom:2mm;">
         <p style="color:white; text-shadow: black 0 0 20px;">
