@@ -51,17 +51,17 @@ defaults:
       # Page title.
       title: Alvatal
       # Short description of the page.
-      description: Estonian Free and Open-Source Software Alliance
+      description: Estonian Free and Open-Source Software Association
       # Slogan for the page.
       slogan: Me teame kes teab!
       # Author for pages and posts.
-      author: Estonian Free and Open-Source Software Alliance
+      author: Estonian Free and Open-Source Software Association
       # Contact e-mail for pages and posts.
       email: vabatarkvara@googlegroups.com
       # E-mail MD5 sum of gravatar.
       email_md5sum: 726351295ec82e145928582f595aa3aa
       # Page/post content license (can contain HTML).
-      content_license: Estonian Free and Open-Source Software Alliance
+      content_license: Estonian Free and Open-Source Software Association
       # Preferred feed standard. Possible values are: atom, rss or null.
       # If set to null then no feed links are present, but feeds can
       # still be accessed directly via /feed/atom or /feed/rss.
