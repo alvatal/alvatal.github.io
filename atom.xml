@@ -1,9 +1,10 @@
 ---
 layout: null
+permalink: /feed/atom/
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title type="text">{{ page.title | xml_escape }}</title>
+    <title type="text">{{ page.title_prefix | xml_escape }}</title>
     <subtitle type="text">{{ page.description | xml_escape }}</subtitle>
 {% if page.feed_icon %}    <icon>{{ page.feed_icon | prepend: site.baseurl }}</icon>{% endif %}
 {% if page.feed_logo %}    <logo>{{ page.feed_logo | prepend: site.baseurl }}</logo>{% endif %}

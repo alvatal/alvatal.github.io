@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Vabavaratalgud
+permalink: private/
 redirect_from:
     - /vabavaratalgud.htm
     - /talgute-lingid.htm
@@ -20,7 +21,7 @@ redirect_from:
 ---
 
 
-<div class="jumbotron" id="gallery" style="background-image:url('/assets/gallery/vabavaratalgud.jpg');">
+<div class="jumbotron" id="gallery" style="background-image:url('{{ site.baseurl }}/media/gallery/vabavaratalgud.jpg');">
 &nbsp;
 </div>
 
@@ -35,11 +36,11 @@ redirect_from:
     </div>
 </div>
 
-{% include sections/talgud.html %}
+{% include et/talgud.html %}
 
 <div class="inverted">
-{% include sections/vaba-tarkvara-paev.html %}
+{% include et/vaba-tarkvara-paev.html %}
 </div>
 
-{% include sections/kysi-mult-linuxit.html %}
+{% include et/kysi-mult-linuxit.html %}
 
