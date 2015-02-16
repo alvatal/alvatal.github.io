@@ -48,6 +48,8 @@ defaults:
     scope:
       path: ""
     values:
+      # Page title prefix.
+      title_prefix: Alvatal
       # Page title.
       title: Alvatal
       # Short description of the page.

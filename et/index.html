@@ -1,13 +1,14 @@
 ---
 title: Tere tulemast
 layout: default
+permalink: /
 ---
 
 <div class="container" id="gallery" style="padding-top:6em; margin: 0 auto;">
     <div class="row">
         <div class="col-md-4">
             <div style="width: 80%; margin: auto;">
-                {% include alvatal-logo.svg %}
+                {% include svg/alvatal-logo.svg %}
             </div>
         </div>
         <div class="col-md-8" class="advertise">
@@ -40,18 +41,18 @@ layout: default
     <div class="row">
 
         <p>Meie koostööpartnerid</p>
-        <img src="/assets/img/mkm.png"/>
-        <img src="/assets/img/haridusamet.png"/>
-        <img src="/assets/img/ria.png"/>
-        <img src="/assets/img/hitsa.png"/>
-        <img src="/assets/img/eik.png"/>
-        <img src="/assets/img/eenet.png"/>
+        <img src="{{ site.baseurl }}/media/mkm.png"/>
+        <img src="{{ site.baseurl }}/media/haridusamet.png"/>
+        <img src="{{ site.baseurl }}/media/ria.png"/>
+        <img src="{{ site.baseurl }}/media/hitsa.png"/>
+        <img src="{{ site.baseurl }}/media/eik.png"/>
+        <img src="{{ site.baseurl }}/media/eenet.png"/>
 
     </div>
 </div>
 
 <div style="text-align:center; padding: 3em 0 2em;">
-    {% include scroll-down.svg %}
+    {% include svg/scroll-down.svg %}
 </div>
 
 <div class="inverted" id="scroll-down">
@@ -131,13 +132,13 @@ layout: default
 
         </div>
         <div class="col-md-6">
-            {% include map-simplified.svg %}
+            {% include svg/map-simplified.svg %}
         </div>
     </div>
 </div>
 
 <div class="inverted">
-{% include sections/vaba-tarkvara-paev.html %}
+{% include et/vaba-tarkvara-paev.html %}
 </div>
 
-{% include sections/kysi-mult-linuxit.html %}
+{% include et/kysi-mult-linuxit.html %}
