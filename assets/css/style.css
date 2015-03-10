@@ -13,41 +13,33 @@
   src: url('/assets/fonts/merriweather.woff') format('woff');
 }
 
-@font-face {
-  font-family: 'Nexa Light';
-  font-style: normal;
-  font-weight: 400;
-  src: url('/assets/fonts/nexa-light.woff') format('woff');
-}
-
-
 body{
-	color: #2c3e50;
-	font-family: 'PT Sans';
-	font-size: 12pt;
+    color: #2c3e50;
+    font-family: 'PT Sans';
+    font-size: 12pt;
 }
 
 
 a.nav-link {
-	padding-bottom: 5px;
-	padding-top: 7px;
-	color: #aaa;
+    padding-bottom: 5px;
+    padding-top: 7px;
+    color: #aaa;
 }
 a.nav-link i{
-	font-size: 16px;
+    font-size: 16px;
 }
 a.nav-link:hover { color: #777 }
 
 #bio {
-	font-family: "Courier New", Courier, monospace;
-	font-size: 11px;
-	margin: 0 auto;
-	margin-bottom: 10px;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 11px;
+    margin: 0 auto;
+    margin-bottom: 10px;
 }
 
 #contact-list li .fa,
 article .share .btn {
-	-o-transition:color .2s ease-out, background 1s ease-in;
+    -o-transition:color .2s ease-out, background 1s ease-in;
   -ms-transition:color .2s ease-out, background 1s ease-in;
   -moz-transition:color .2s ease-out, background 1s ease-in;
   -webkit-transition:color .2s ease-out, background 1s ease-in;
@@ -55,56 +47,52 @@ article .share .btn {
 }
 #contact-list li:hover .fa-twitter,
 article .share .twitter:hover {
-	color: #00ACEE;
-	border-color: #00ACEE;
+    color: #00ACEE;
+    border-color: #00ACEE;
 }
 #contact-list li:hover .fa-linkedin {
-	color: #1D87BD;
+    color: #1D87BD;
 }
 #contact-list li:hover .fa-envelope {
-	color: #E93E30;
+    color: #E93E30;
 }
 #contact-list li:hover .fa-pinterest {
-	color: #CC2127;
+    color: #CC2127;
 }
 #contact-list li:hover .fa-rss {
-	color: #e74c3c;
+    color: #e74c3c;
 }
 article .share .facebook:hover {
-	color: #43609C;
-	border-color: #43609C;
+    color: #43609C;
+    border-color: #43609C;
 }
 article .share .gplus:hover {
-	color: #C13929;
-	border-color: #C13929;
+    color: #C13929;
+    border-color: #C13929;
 }
 
 #contact-list-secondary {
-	padding-bottom: 10px;
+    padding-bottom: 10px;
 }
 
 .page-header {
-	color: #888;
-/* 	text-shadow: 1px 1px 1px rgba(150, 150, 150, 1); */
-
-  margin-top: 100px;
-
-
+    color: #888;
+    margin-top: 100px;
 }
 
 article{
-	margin-bottom: 40px;
+    margin-bottom: 40px;
 }
 
 .article_body{
-	margin-top: 20px;
-	margin-bottom: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .post-date {
-	text-transform: uppercase;
-	font-size: 14px;
-	letter-spacing: 3px;
+    text-transform: uppercase;
+    font-size: 14px;
+    letter-spacing: 3px;
 }
 
 
@@ -118,20 +106,20 @@ article.home h2,
 article.home h3,
 article.home h4,
 article.home h5,
-	color: #f2756a;
+    color: #f2756a;
 }
 
 article.home h1 a,
 article.home h2 a,
 article.home h3 a,
 article.home h4 a {
-	color: #f2756a;
+    color: #f2756a;
 }
 article.home h1 a:hover,
 article.home h2 a:hover,
 article.home h3 a:hover,
 article.home h4 a:hover {
-	color: #e74c3c;
+    color: #e74c3c;
 }
 
 .author .author-image {
@@ -140,8 +128,8 @@ article.home h4 a:hover {
 }
 
 footer {
-	padding-top: 15px;
-	font-family: 'PT Sans';
+    padding-top: 15px;
+    font-family: 'PT Sans';
 }
 
 /* nav-vertical-tabs component */
@@ -230,17 +218,13 @@ article .document span.published { display: none; }
 #gallery {
     background-size: cover;
     background-position: center center;
-    height: 500px;
+    height: 410px;
     margin: 0;
 }
 
 .container {
     padding-left: 0;
     padding-right: 0;
-}
-
-.advertise {
-    font-size: 16pt;
 }
 
 ul.ticks {
@@ -267,7 +251,6 @@ ul.ticks li:before {
 }
 
 .partners {
-
     text-align: center;
 }
 
@@ -279,3 +262,8 @@ h2 svg {
     position: relative;
     top: 12px;
 }
+
+.advertise .ticks ul {
+    font-size: 16pt;
+}
+
